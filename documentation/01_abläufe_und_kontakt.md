@@ -4,9 +4,9 @@
 
 Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für dich zusammengestellt:
 
-1. [Vorher](Vorher)
-2. [Während](Während)
-3. [Nachher](Nachher)
+1. [Vorher](##Vorher)
+2. [Während](##Während)
+3. [Nachher](##Nachher)
 
 ## 🛎️ Vorher
 
