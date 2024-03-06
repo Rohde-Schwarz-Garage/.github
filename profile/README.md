@@ -54,4 +54,5 @@ Produkten (Mikro-Controller, Sensoren, etc.) ausgestattet. Dazu kommen Maschinen
 
 Wie geht es nun weiter? Du interessierst dich für unsere Garage? Du möchtest wissen, wie unsere Ausstattung genau aussieht? Hier geht's weiter:
 
-- [Abläufe und Kontaktinformationen](/documentation/01_abläufe_und_kontakt.md)
+- [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)
+- 
