@@ -8,7 +8,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 2. [Während](#Während)
 3. [Nachher](#Nachher) 
 
-## Vorher
+## Vorher 📅
 
 1. [Termine einsehen / buchen](### Freie Termine einsehen und buchen)
 2. [Vorbereitung](### Vorbereitung)
