@@ -8,7 +8,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 2. [Während](##Während)
 3. [Nachher](##Nachher)
 
-## 🛎️ Vorher
+## Vorher
 
 1. [Termine einsehen / buchen](### Freie Termine einsehen und buchen)
 2. [Vorbereitung](### Vorbereitung)
@@ -25,7 +25,7 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 - [Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5)
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
-## 👩‍🏭 Während
+## Während
 
 1. [Anmeldung vor Ort](### Anmeldung vor Ort)
 2. [Einweisungen](### Einweisungen)
@@ -42,7 +42,7 @@ Du erhälst zum Start:
 ### Ordnung wiederherstellen
 Bitte führe die Garage in ihren Ausgangszustand zurück, dies beinhaltet neben der Einrichtung auch die Geräte, Kabel und alles weitere, was du benutzt hast. Weiterhin nutze einen der Computer vor Ort, um mittels Outlook die Liste mit deinem Verbrauchsmaterial, welches nicht mehr zurückgeführt werden kann an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) zu senden.
 
-## 📬 Nachher
+## Nachher
 
 ### Feedback 
 Um uns kontinuierlich verbessern zu können, sind wir auf dein Feedback angewiesen. Teile uns mit, was dir gefallen hat und wo du noch Verbesserungsmöglichkeiten siehst.
