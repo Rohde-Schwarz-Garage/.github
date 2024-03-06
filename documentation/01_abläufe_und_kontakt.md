@@ -52,6 +52,10 @@ Alle Geräte in der Garage stehen zur Nutzung frei zur Verfügung. Bitte achte j
 
 Unsere Geräte (Messgeräte, etc.) dürfen genutzt werden, hierfür ist keine besondere Unterweisung von Nöten. Jedoch lohnt es sich, mit deren Bedienung vorab vertraut zu machen. Anleitungen stehen ebenso unter dem "Einweisungen" zur Verfügung.
 
+Neben underen Maschinen und Geräten steht in der Garage noch verschiedenstes Material zur Verfügung. Eine Übersicht findest du hier:
+
+- [Maschinen, Geräte und Material](/documentation/02_maschinen_geräte_material.md)
+
 ### Nutzung der Küche
 Die Garage befindet sich, wie der Pausenraum der Ausbildung, im ersten Obergeschoss. Der Pausenraum verfügt über eine Küche. Diese kann genutzt werden. Es ist darauf zu achten, dass der Pausenraum / die Küche nicht genutzt werden kann, sofern Veranstaltungen darin durchgeführt werden. Bitte dazu das digitale Raumschild beachten.
 
