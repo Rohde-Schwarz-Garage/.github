@@ -27,9 +27,9 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 
 ## Während
 👩‍🏭
-1. [Anmeldung vor Ort](###Anmeldung)
-2. [Einweisungen](###Einweisungen)
-3. [Ordnung](###Ordnung)
+1. [Anmeldung vor Ort](#Anmeldung-vor-Ort)
+2. [Einweisungen](#Einweisungen)
+3. [Ordnung](#Ordnung-wiederherstellen)
 
 ### Anmeldung vor Ort
 Die Anmeldung vor Ort findet im zweiten Stockwerk der Friedenstraße 32 ("BCF Gebäude") statt. Die Klingel für die Ausbildung befindet sich auf der linken Seite. Nach der Anmeldung erhälst du optional einen Gästeausweis, mit dem du dich anschließend eigenständig im Bereich der Garage bewegen kannst. Dieser Ausweis funktioniert nur hier.
