@@ -6,7 +6,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 
 1. [Vorher](#Vorher)
 2. [Während](#Während)
-3. [Nachher](#Nachher) 
+3. [Danach](#Danach) 
 
 ## Vorher
 📅
@@ -65,10 +65,12 @@ Bitte auf Ordnung achten. Benutzes Geschirr ist in den Geschirrspüler zu räume
 ### Ordnung wiederherstellen
 Bitte führe die Garage in ihren Ausgangszustand zurück, dies beinhaltet neben der Einrichtung auch die Geräte, Kabel und alles weitere, was du benutzt hast. Weiterhin nutze einen der Computer vor Ort, um mittels Outlook die Liste mit deinem Verbrauchsmaterial, welches nicht mehr zurückgeführt werden kann an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) zu senden.
 
+Stelle bitte sicher, dass bei deinem Verlassen keine elektronischen Geräte mehr eingeschaltet oder aktiv sind.
+
 ### Abmeldung beim Verlassen
 Sobald die Garage verlassen und am Tag nicht mehr dorthin zurückgekehrt wird, bitte beim Ansprechpartner, bei dem die Anmeldung durchgeführt wurde, wieder abmelden. Der Gästeausweis ist täglich wieder abzugeben. Er darf nicht mit nach Hause genommen werden.
 
-## Nachher
+## Danach
 📬
 ### Feedback 
 Um uns kontinuierlich verbessern zu können, sind wir auf dein Feedback angewiesen. Teile uns mit, was dir gefallen hat und wo du noch Verbesserungsmöglichkeiten siehst.
