@@ -1,4 +1,9 @@
-- 👋 Hi, wir sind die @rohde-schwarz-garage
+# Aloha 🌺
+
+👋 Hi, wir sind die @Rohde-Schwarz-Garage
+
+Ein paar kurze Fakten über uns:
+
 - 🛠 Makerspace von Rohde & Schwarz in 📍 München
 - 💖 MINT Begeisterung
 - 🧪 Experimente, Projekte, Entwicklung, u.v.m.
