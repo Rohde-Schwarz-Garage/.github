@@ -32,7 +32,7 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 👩‍🏭
 1. [Anmeldung vor Ort](#Anmeldung-vor-Ort)
 2. [Einweisungen](#Einweisungen)
-3. [Nutzung von Maschinen, Geräten und Material](#Nutzung-von-Maschinen,-Geräten-und-Material)
+3. [Nutzung von Maschinen, Geräten und Material](#Nutzung-von-Maschinen-Geräten-und-Material)
 4. [Nutzung der Küche](#Nutzung-der-Küche)
 5. [Ordnung](#Ordnung-wiederherstellen)
 6. [Abmeldung](#Abmeldung-beim-Verlassen)
