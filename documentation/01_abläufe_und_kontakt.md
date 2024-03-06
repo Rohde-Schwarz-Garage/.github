@@ -10,8 +10,9 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 
 ## Vorher
 📅
-1. [Termine einsehen / buchen](### Freie Termine einsehen und buchen)
-2. [Vorbereitung](### Vorbereitung)
+1. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
+2. [Vorbereitung](#Vorbereitung)
+3. [Status-Check](#Status-Check-der-Geräte)
 
 ### Freie Termine einsehen und buchen
 Du kannst über folgenden Link/Kalender die derzeitige Buchungslage einsehen: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
@@ -24,6 +25,8 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 **Hinweis: Wir befinden uns aktuell noch in der Testphase. Die Unterlagen sind teilweise noch in der Erstellung.**
 - [Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5)
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
+
+### Status-Check der Geräte
 
 ## Während
 👩‍🏭
