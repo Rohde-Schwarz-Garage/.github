@@ -32,7 +32,7 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 👩‍🏭
 1. [Anmeldung vor Ort](#Anmeldung-vor-Ort)
 2. [Einweisungen](#Einweisungen)
-3. [Nutzung der Geräte](#Nutzung-der-Geräte)
+3. [Nutzung von Maschinen, Geräten und Material](#Nutzung-von-Maschinen,-Geräten-und-Material)
 4. [Nutzung der Küche](#Nutzung-der-Küche)
 5. [Ordnung](#Ordnung-wiederherstellen)
 6. [Abmeldung](#Abmeldung-beim-Verlassen)
@@ -47,7 +47,7 @@ Du erhälst zum Start:
 - Eine [Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5) 
 - [Anleitungen und Einweisungen zu den Geräten](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
-### Nutzung der Geräte
+### Nutzung von Maschinen, Geräten und Material
 Alle Geräte in der Garage stehen zur Nutzung frei zur Verfügung. Bitte achte jedoch darauf, dass du um Umgang sicher bist. Für besondere Arbeiten mit Maschinen, z.B. Lötarbeiten und 3D-Druck-Arbeiten musst du eine Unterweisung erhalten haben. Siehe Punkt "Einweisungen". **Du darfst ohne Unterweisung nicht mit diesen Geräten arbeiten.**
 
 Unsere Geräte (Messgeräte, etc.) dürfen genutzt werden, hierfür ist keine besondere Unterweisung von Nöten. Jedoch lohnt es sich, mit deren Bedienung vorab vertraut zu machen. Anleitungen stehen ebenso unter dem "Einweisungen" zur Verfügung.
