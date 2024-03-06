@@ -6,8 +6,8 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung.
 
 Grundsätzlich ....
 
-#Material
+# Material
 
-#Geräte
+# Geräte
 
-#Maschinen
+# Maschinen
