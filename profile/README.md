@@ -48,7 +48,10 @@ Die Dokumentation findet öffentlich über diesen GitHub Account statt.
 # Ausstattung
 
 Um unsere Ziele zu erreichen ist unsere Garage entsprechend mit Geräten und einer Auswahl an unterschiedlichen
-Produkten (Mikro-Controller, Sensoren, etc.) ausgestattet.
+Produkten (Mikro-Controller, Sensoren, etc.) ausgestattet. Dazu kommen Maschinen wie CNC-Fräse, Laser-Schneidemaschine, verschiedene 3D-Drucker, Oberflächendrucker, Drehmaschine oder Bohrmaschine.
 
-Die aktuelle Ausstattung, sowohl räumlich wie auch technisch kannst du hier abrufen:
-[Technische Ausstattung der Garage](https://LINK)
+# Sprungpunkte
+
+Wie geht es nun weiter? Du interessierst dich für unsere Garage? Du möchtest wissen, wie unsere Ausstattung genau aussieht? Hier geht's weiter:
+
+- [Abläufe und Kontaktinformationen](/documentation/01_abläufe_und_kontakt.md)
