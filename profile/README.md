@@ -9,6 +9,7 @@ Ein paar kurze Fakten über uns:
 - 🧪 Experimente, Projekte, Entwicklung, u.v.m.
 - 🎫 Zugänglich für interessierte Mitarbeiter mit Kindern
 - 🔓 Offen für Anfragen von Schulen, Hochschulen, StartUp's
+- 🛎️ Die Garage richtet sich an eigengesteuertes Arbeiten, eine direkte Betreuung erfolgt nicht
 - 🦹‍♂️ Ansprechpartner / Verantwortlicher: Robert Kuehnl
 
 <!---
