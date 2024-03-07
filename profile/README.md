@@ -21,7 +21,7 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 # Inhalt
 
 1. [Zielgruppen](#Zielgruppen)
-2. [Angebot](#Angebot)
+2. [Angebot & Konzept](#Angebot-&-Konzept)
 3. [Ausstattung](#Ausstattung)
 4. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
 
@@ -34,7 +34,7 @@ Das Angebot der Garage richtet sich an:
 - Schüler, Studenten, Lehrkräfte, Eltern mit Kindern
 - Junge Talente, Start-Up's, etc.
 
-# Angebot
+# Angebot & Konzept
 
 Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich 
 Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage 
