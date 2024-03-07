@@ -4,7 +4,12 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte 
 - [Geräte 🎮](#Geräte)
 - [Maschinen 🥽](#Maschinen)
 
-Grundsätzlich ....
+☝️**Hinweise**☝️
+
+- Unsere Geräte stehen dir natürlich sehr gerne zur Verfügung. 
+- Verbrauchsmaterial ist in normalen Beständen verfügbar. 
+- Eigenes Material kann gerne mitgerbacht werden, ebenso wie Werkzeuge.
+- Mit unserem Material (Mikrocontroller, Sensoren, etc.) kann gearbeitet werden, jedoch ist es nicht gestattet, dieses mit nach Hause zu nehmen. (Nach Absprache in speziellen Fällen möglich)
 
 # Material
 
@@ -18,14 +23,14 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung.
 - NGE100 Netzteil
 - HMC8012 Digitales Multimeter
 
-Unterweisung erforderlich:
+📘 Unterweisung erforderlich:
 
-- 
-
+- Prusa MK4 3D Drucker
 
 | RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | ![RTA](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_RTA4004_Osziloskop.png?raw=true) | ![NGE](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_NGE100_Netzteil.png?raw=true) | ![HMC8012](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_HMC8012_Digitales_Multimeter.png?raw=true) |
+| Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK4 3D Drucker |
 | ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Lötkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
 
 
