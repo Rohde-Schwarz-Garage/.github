@@ -2,7 +2,7 @@
 
 In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte beachte, dass nicht alle Geräte ohne Weiteres genutzt werden können - Stichwort Arbeitssicherheit. Du brauchst ggf. erst eine Unterweisung, um mit einem bestimmten Maschine arbeiten zu dürfen. Alle notwendigen informationen dazu findest du hier.
 
-## Einführung
+## Einführung 🚀
 
 1. [Hinweise ☝️](#Hinweise)
 2. [Arbeitssicherheit🧷](#Arbeitssicherheit)
@@ -20,7 +20,7 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab ber
 
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
-## Übersicht
+## Übersicht 👀
 
 - [Material 🧱](#Material)
 - [Geräte 🎮](#Geräte)
