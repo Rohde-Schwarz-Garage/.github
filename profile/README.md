@@ -59,6 +59,8 @@ Die Kernausstattung 🛋️📺
 - Couch für Besprechungen
 - Einstellbarer Beleuchtung
 
+Unser Material, die Maschinen und Geräte im Überblick ⚙️
+
 - [Zur Übersicht über unsere Maschinen, Geräte & das Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
 # Abläufe und Kontakt
