@@ -1,13 +1,18 @@
+# Maschinen, Geräte und Material
+
 In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte beachte, dass nicht alle Geräte ohne Weiteres genutzt werden können - Stichwort Arbeitssicherheit. Du brauchst ggf. erst eine Unterweisung, um mit einem bestimmten Maschine arbeiten zu dürfen. Alle notwendigen informationen dazu findest du hier.
 
-☝️Hinweise☝️
+## Einführung
+
+1. [Hinweise ☝️](#Hinweise)
+2. [Arbeitssicherheit🧷](#Arbeitssicherheit)
+
+### Hinweise
 
 - Unsere Geräte stehen dir natürlich sehr gerne zur Verfügung. 
 - Verbrauchsmaterial ist in normalen Beständen verfügbar. 
 - Eigenes Material kann gerne mitgerbacht werden, ebenso wie Werkzeuge.
 - Mit unserem Material (Mikrocontroller, Sensoren, etc.) kann gearbeitet werden. Jedoch ist es nicht gestattet, dieses mit nach Hause zu nehmen. (Nach Absprache in speziellen Fällen möglich)
-
-🧷Arbeitssicherheit🧷
 
 Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab bereits in die Bedienung der Maschinen einzulesen. *Aktuell befinden sich die Unterweisunden und Einweisungen im Aufbau*
 
@@ -19,9 +24,11 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab ber
 - [Geräte 🎮](#Geräte)
 - [Maschinen 🥽](#Maschinen)
 
-# Material
+## Übersicht
 
-# Geräte
+### Material
+
+### Geräte
 
 Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlich können spezielle Rodhe & Schwarz Geräte angefragt werden.
 
@@ -43,5 +50,5 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 
 
-# Maschinen
+### Maschinen
 
