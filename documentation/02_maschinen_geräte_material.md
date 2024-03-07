@@ -36,10 +36,11 @@ Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroll
 
 | Werkzeug I | Werkzeug II | Werkzeug III |
 | :---: | :---: | :---: |
-| ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_01.png?raw=true) | ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_02.png?raw=true) | ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_03.png?raw=true) |
+| ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_01.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_02.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_03.png?raw=true) |
 | Zubehör | Mikrocontroller & Sensoren | Diveres |
-| ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_01.png?raw=true) |  |  |
+| ![Zubehör I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_01.png?raw=true) | ![Controller & Sensoren](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_02.png?raw=true) | ![Diverses](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_03.png?raw=true) |
  |Zubehör |  |  |
+ | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_04.png?raw=true)
 
 ### Geräte
 
