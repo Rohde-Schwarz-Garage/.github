@@ -14,17 +14,17 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte 
 - Eigenes Material kann gerne mitgerbacht werden, ebenso wie Werkzeuge.
 - Mit unserem Material (Mikrocontroller, Sensoren, etc.) kann gearbeitet werden. Jedoch ist es nicht gestattet, dieses mit nach Hause zu nehmen. (Nach Absprache in speziellen Fällen möglich)
 
+### Arbeitssicherheit
+
 Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab bereits in die Bedienung der Maschinen einzulesen. *Aktuell befinden sich die Unterweisunden und Einweisungen im Aufbau*
 
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
-# Index
+## Übersicht
 
 - [Material 🧱](#Material)
 - [Geräte 🎮](#Geräte)
 - [Maschinen 🥽](#Maschinen)
-
-## Übersicht
 
 ### Material
 
