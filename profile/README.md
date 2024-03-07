@@ -23,7 +23,7 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 1. [Zielgruppen](#Zielgruppen)
 2. [Angebot](#Angebot)
 3. [Ausstattung](#Ausstattung)
-4. [Abläufe & Kontakt](#Los_gehts!)
+4. [Abläufe & Kontakt](#Los_geht's!)
 
 # Zielgruppen
 
