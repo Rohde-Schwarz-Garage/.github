@@ -56,7 +56,7 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 ### Maschinen
 
-Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung genutzt werden. Hierfür ist mindestens eine Einweisung erforderlich. Manche Maschinen können/dürfen leider nur durch Fachpersonal bedient werden.
+Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
 
 | CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
 | :---: | :---: | :---: | :---: |
