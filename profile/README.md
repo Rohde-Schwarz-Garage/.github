@@ -48,6 +48,8 @@ Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten
 
 Unsere Garage ist ausgelegt für ca. 4 Besucher. Dabei konzentriet sich die Garage auf die zwei Werkbänke, an denen gearbeitet werden kann. In der Garage selber stehen verschiedene Geräte von Rohde & Schwarz, aber auch ein 3D Drucker sowie Lötkolben mit Abluft zur Verfügung. Daneben kann, nach Rücksprache, auf verschiedene Maschinen unserer Rapid-Prototyping Werkstatt zurückgergriffen werden.
 
+![Austattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)
+
 Die Kernausstattung 🛋️📺
 
 - Zwei Werkbänke mit Ablagemöglichkeiten & Beleuchtung
