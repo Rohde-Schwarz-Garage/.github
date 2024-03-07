@@ -26,11 +26,17 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab ber
 
 ## Übersicht 👀
 
-- [Material 🧱](#Material)
+- [Material und Werkzeug🧱](#Material-und-Werkzeug)
 - [Geräte 🎮](#Geräte)
 - [Maschinen 🥽](#Maschinen)
 
-### Material
+### Material und Werkzeug
+
+Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroller bis hin zu Sernsoren in der Garage. Eine optimale Ausgangssituation wenn du dich mit Themen wie IoT oder Automatisierung vertraut machen möchtest.
+
+| Werkzeug I | Werkzeug II | Werkzeug III | Zubehör |
+| ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_01.png?raw=true) | ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_02.png?raw=true) | ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_03.png?raw=true) | ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_01.png?raw=true) |
+| Mikrocontroller & Sensoren | Diveres | Zubehör |  |
 
 ### Geräte
 
