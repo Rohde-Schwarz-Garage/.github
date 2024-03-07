@@ -56,3 +56,8 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 ### Maschinen
 
+Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung genutzt werden. Hierfür ist mindestens eine Einweisung erforderlich. Manche Maschinen können/dürfen leider nur durch Fachpersonal bedient werden.
+
+| CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
+| :---: | :---: | :---: | :---: |
+| ![CNC](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_CNC_Fräse.png?raw=true) | ![Oberflächendrucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Oberflächendrucker.png?raw=true) | ![Laserschneidemaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Laserschneidemaschine.png?raw=true) | ![Standbohrmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Standbohrmaschine.png?raw=true) |
