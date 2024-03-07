@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG am Standort München.
 
+![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_10.png?raw=true)
+
 # Inhalt
 
 1. [Zielgruppen](#Zielgruppen)
