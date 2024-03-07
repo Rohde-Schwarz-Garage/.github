@@ -61,7 +61,7 @@ Die Kernausstattung 🛋️📺
 
 Unser Material, die Maschinen und Geräte im Überblick ⚙️
 
-- [Zur Übersicht über unsere Maschinen, Geräte & das Material 🤖](/documentation/02_maschinen_geräte_material.md)
+- [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
 # Abläufe und Kontakt
 
