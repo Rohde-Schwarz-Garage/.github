@@ -38,22 +38,24 @@ Das Angebot der Garage richtet sich an:
 
 # Angebot und Konzept
 
-Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich 
-Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage 
-soll auch besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit 
-verschiedenster Technologie vertraut machen kann.
+Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage  soll auch besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
 
-Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten und Projekten aufzubauen.
-Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder soll in der Lage sein,
-diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln.
-Die Dokumentation findet öffentlich über diesen GitHub Account statt.
+Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten und Projekten aufzubauen. Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder soll in der Lage sein, diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln. Die Dokumentation findet öffentlich über diesen GitHub Account statt.
 
 - [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
 # Ausstattung
 
-Um unsere Ziele zu erreichen ist unsere Garage entsprechend mit Geräten und einer Auswahl an unterschiedlichen
-Produkten (Mikro-Controller, Sensoren, etc.) ausgestattet. Dazu kommen Maschinen wie CNC-Fräse, Laser-Schneidemaschine, verschiedene 3D-Drucker, Oberflächendrucker, Drehmaschine oder Bohrmaschine.
+Unsere Garage ist ausgelegt für ca. 4 Besucher. Dabei konzentriet sich die Garage auf die zwei Werkbänke, an denen gearbeitet werden kann. In der Garage selber stehen verschiedene Geräte von Rohde & Schwarz, aber auch ein 3D Drucker sowie Lötkolben mit Abluft zur Verfügung. Daneben kann, nach Rücksprache, auf verschiedene Maschinen unserer Rapid-Prototyping Werkstatt zurückgergriffen werden.
+
+Die Kernausstattung 🛋️📺
+
+- Zwei Werkbänke mit Ablagemöglichkeiten & Beleuchtung
+- Laptop mit Office
+- PC mit Office
+- 4K Touch Monitor mit Office sowie Meeting Funktionalitäten (Webcam, Mikrofon, Lautsprecher)
+- Couch für Besprechungen
+- Einstellbarer Beleuchtung
 
 - [Zur Übersicht über unsere Maschinen, Geräte & das Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
