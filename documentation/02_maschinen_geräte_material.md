@@ -61,3 +61,7 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 | CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
 | :---: | :---: | :---: | :---: |
 | ![CNC](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_CNC_Fräse.png?raw=true) | ![Oberflächendrucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Oberflächendrucker.png?raw=true) | ![Laserschneidemaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Laserschneidemaschine.png?raw=true) | ![Standbohrmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Standbohrmaschine.png?raw=true) |
+
+| Drehmaschine | 3D Drucker (Resin) |
+| :---: | :---: |
+| ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_CNC_Fräse.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Oberflächendrucker.png?raw=true) |
