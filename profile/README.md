@@ -23,7 +23,7 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 1. [Zielgruppen](#Zielgruppen)
 2. [Angebot](#Angebot)
 3. [Ausstattung](#Ausstattung)
-4. [Abläufe & Kontakt](#Los_geht's!)
+4. [Abläufe & Kontakt](#Abläufe)
 
 # Zielgruppen
 
@@ -55,7 +55,7 @@ Produkten (Mikro-Controller, Sensoren, etc.) ausgestattet. Dazu kommen Maschinen
 
 - [Zur Übersicht über unsere Maschinen, Geräte & das Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
-# Los geht's!
+# Abläufe
 
 Wie geht es nun weiter? Du interessierst dich für unsere Garage? Du möchtest wissen, wie unsere Ausstattung genau aussieht? Hier geht's weiter:
 
