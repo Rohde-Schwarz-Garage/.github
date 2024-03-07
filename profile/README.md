@@ -45,14 +45,17 @@ Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder 
 diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln.
 Die Dokumentation findet öffentlich über diesen GitHub Account statt.
 
+- [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
+
 # Ausstattung
 
 Um unsere Ziele zu erreichen ist unsere Garage entsprechend mit Geräten und einer Auswahl an unterschiedlichen
 Produkten (Mikro-Controller, Sensoren, etc.) ausgestattet. Dazu kommen Maschinen wie CNC-Fräse, Laser-Schneidemaschine, verschiedene 3D-Drucker, Oberflächendrucker, Drehmaschine oder Bohrmaschine.
+
+- [Zur Übersicht über unsere Maschinen, Geräte & das Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
 # Sprungpunkte
 
 Wie geht es nun weiter? Du interessierst dich für unsere Garage? Du möchtest wissen, wie unsere Ausstattung genau aussieht? Hier geht's weiter:
 
 - [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)
-- [Zur Übersicht über unsere Maschinen, Geräte & das Material](/documentation/02_maschinen_geräte_material.md)
