@@ -38,9 +38,9 @@ Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroll
 | :---: | :---: | :---: |
 | ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_01.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_02.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_03.png?raw=true) |
 | Zubehör | Mikrocontroller & Sensoren | Diveres |
-| ![Zubehör I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_01.png?raw=true) | ![Controller & Sensoren](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_02.png?raw=true) | ![Diverses](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_03.png?raw=true) |
+| ![Zubehör I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_01.png?raw=true) | ![Controller & Sensoren](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_02.png?raw=true) | ![Diverses](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_03.png?raw=true) |
  |Zubehör |  |  |
- | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehör_04.png?raw=true)
+ | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_04.png?raw=true)
 
 ### Geräte
 
@@ -60,7 +60,7 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 | :---: | :---: | :---: |
 | ![RTA](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_RTA4004_Osziloskop.png?raw=true) | ![NGE](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_NGE100_Netzteil.png?raw=true) | ![HMC8012](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_HMC8012_Digitales_Multimeter.png?raw=true) |
 | Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK4 3D Drucker |
-| ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Lötkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
+| ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Loetkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
 
 
 
@@ -70,7 +70,7 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 
 | CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
 | :---: | :---: | :---: | :---: |
-| ![CNC](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_CNC_Fräse.png?raw=true) | ![Oberflächendrucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Oberflächendrucker.png?raw=true) | ![Laserschneidemaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Laserschneidemaschine.png?raw=true) | ![Standbohrmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Standbohrmaschine.png?raw=true) |
+| ![CNC](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_CNC_Fraese.png?raw=true) | ![Oberflächendrucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Oberflaechendrucker.png?raw=true) | ![Laserschneidemaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Laserschneidemaschine.png?raw=true) | ![Standbohrmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Standbohrmaschine.png?raw=true) |
 
 | Drehmaschine | 3D Drucker (Resin) |
 | :---: | :---: |
