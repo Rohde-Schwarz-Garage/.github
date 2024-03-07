@@ -2,6 +2,8 @@
 
 In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte beachte, dass nicht alle Geräte ohne Weiteres genutzt werden können - Stichwort Arbeitssicherheit. Du brauchst ggf. erst eine Unterweisung, um mit einem bestimmten Maschine arbeiten zu dürfen. Alle notwendigen informationen dazu findest du hier.
 
+![Garage](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_04.png?raw=true)
+
 ## Einführung 🚀
 
 1. [Hinweise ☝️](#Hinweise)
