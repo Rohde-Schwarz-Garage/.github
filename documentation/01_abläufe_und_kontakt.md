@@ -59,6 +59,8 @@ Neben underen Maschinen und Geräten steht in der Garage noch verschiedenstes Ma
 ### Nutzung der Küche
 Die Garage befindet sich, wie der Pausenraum der Ausbildung, im ersten Obergeschoss. Der Pausenraum verfügt über eine Küche. Diese kann genutzt werden. Es ist darauf zu achten, dass der Pausenraum / die Küche nicht genutzt werden kann, sofern Veranstaltungen darin durchgeführt werden. Bitte dazu das digitale Raumschild beachten.
 
+![Kueche](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Kueche.png?raw=true)
+
 In der Küche steht zur Verfügung:
 
 - eine Mikrowelle
