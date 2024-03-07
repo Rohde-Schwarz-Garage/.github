@@ -64,4 +64,4 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 
 | Drehmaschine | 3D Drucker (Resin) |
 | :---: | :---: |
-| ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_CNC_Fräse.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Oberflächendrucker.png?raw=true) |
+| ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Drehmaschine.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_Resin.png?raw=true) |
