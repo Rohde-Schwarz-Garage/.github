@@ -1,15 +1,17 @@
 In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte beachte, dass nicht alle Geräte ohne Weiteres genutzt werden können - Stichwort Arbeitssicherheit. Du brauchst ggf. erst eine Unterweisung, um mit einem bestimmten Maschine arbeiten zu dürfen. Alle notwendigen informationen dazu findest du hier.
 
-- [Material 🧱](#Material)
-- [Geräte 🎮](#Geräte)
-- [Maschinen 🥽](#Maschinen)
-
 ☝️**Hinweise**☝️
 
 - Unsere Geräte stehen dir natürlich sehr gerne zur Verfügung. 
 - Verbrauchsmaterial ist in normalen Beständen verfügbar. 
 - Eigenes Material kann gerne mitgerbacht werden, ebenso wie Werkzeuge.
 - Mit unserem Material (Mikrocontroller, Sensoren, etc.) kann gearbeitet werden. Jedoch ist es nicht gestattet, dieses mit nach Hause zu nehmen. (Nach Absprache in speziellen Fällen möglich)
+
+# Index
+
+- [Material 🧱](#Material)
+- [Geräte 🎮](#Geräte)
+- [Maschinen 🥽](#Maschinen)
 
 # Material
 
