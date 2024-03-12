@@ -30,7 +30,7 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 
 # Angebot und Konzept
 
-Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage  soll auch besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
+Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage soll besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
 
 Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten und Projekten aufzubauen. Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder soll in der Lage sein, diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln. Die Dokumentation findet öffentlich über diesen GitHub Account statt.
 
