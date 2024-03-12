@@ -23,10 +23,18 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 
 # Inhalt
 
-1. [Zielgruppen](#Zielgruppen)
-2. [Angebot & Konzept](#Angebot-und-Konzept)
-3. [Ausstattung](#Ausstattung)
-4. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
+1. [Angebot & Konzept](#Angebot-und-Konzept)
+2. [Zielgruppen](#Zielgruppen)
+4. [Ausstattung](#Ausstattung)
+5. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
+
+# Angebot und Konzept
+
+Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage  soll auch besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
+
+Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten und Projekten aufzubauen. Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder soll in der Lage sein, diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln. Die Dokumentation findet öffentlich über diesen GitHub Account statt.
+
+- [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
 # Zielgruppen
 
@@ -36,14 +44,6 @@ Das Angebot der Garage richtet sich an:
 - R&S Auszubildende & Dual Studierende des Standortes München
 - Schüler, Studenten, Lehrkräfte, Eltern mit Kindern
 - Junge Talente, Start-Up's, etc.
-
-# Angebot und Konzept
-
-Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage  soll auch besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
-
-Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten und Projekten aufzubauen. Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder soll in der Lage sein, diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln. Die Dokumentation findet öffentlich über diesen GitHub Account statt.
-
-- [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
 # Ausstattung
 
