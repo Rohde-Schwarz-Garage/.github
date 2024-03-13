@@ -46,7 +46,7 @@ Die Anmeldung vor Ort findet im zweiten Stockwerk der Friedenstraße 32 ("BCF Ge
 
 ### Einweisungen
 Du erhälst zum Start:
-- Eine [Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5) 
+- [Eine Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5) 
 - [Anleitungen und Einweisungen zu den Geräten](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
 ### Nutzung von Maschinen, Geräten und Material
