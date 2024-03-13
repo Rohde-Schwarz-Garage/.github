@@ -54,7 +54,6 @@ Beim Aufbau eines neuen Repositories ist auf Folgendes zu achten:
 
 Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu achten:
 
-- Die README.MD dient als primäre Informationsdatei, über sie wird die Dokumentation aufgebaut (mit Links, etc.)
 - Eine Ordnerstruktur wird wie folgt erstellt:
 - - Ordner [profile] *sollte automatisch erstellt worden sein*
 - - - README.md *Hauptdatei zur Dokumentation - von hier aus wird verlinkt*
