@@ -32,7 +32,8 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 - 🛑 [Prüfe hier den aktuellen Status der Geräte und Maschinen](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)
 
 ## Während
-👩‍🏭
+![image](https://github.com/Rohde-Schwarz-Garage/.github/assets/86538203/0495eee2-5824-4815-a3ea-cf46161b341a)
+
 1. [Anmeldung vor Ort](#Anmeldung-vor-Ort)
 2. [Einweisungen](#Einweisungen)
 3. [Nutzung von Maschinen, Geräten und Material](#Nutzung-von-Maschinen-Geräten-und-Material)
@@ -83,7 +84,8 @@ Stelle bitte sicher, dass bei deinem Verlassen keine elektronischen Geräte mehr
 Sobald die Garage verlassen und am Tag nicht mehr dorthin zurückgekehrt wird, bitte beim Ansprechpartner, bei dem die Anmeldung durchgeführt wurde, wieder abmelden. Der Gästeausweis ist täglich wieder abzugeben. Er darf nicht mit nach Hause genommen werden.
 
 ## Danach
-📬
+![image](https://github.com/Rohde-Schwarz-Garage/.github/assets/86538203/0495eee2-5824-4815-a3ea-cf46161b341a)
+
 ### Feedback 
 Um uns kontinuierlich verbessern zu können, sind wir auf dein Feedback angewiesen. Teile uns mit, was dir gefallen hat und wo du noch Verbesserungsmöglichkeiten siehst.
 
