@@ -9,7 +9,8 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 3. [Danach](#Danach) 
 
 ## Vorher
-📅
+![image](https://github.com/Rohde-Schwarz-Garage/.github/assets/86538203/0495eee2-5824-4815-a3ea-cf46161b341a)
+
 1. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
 2. [Vorbereitung](#Vorbereitung)
 3. [Status-Check](#Status-Check-der-Geräte)
