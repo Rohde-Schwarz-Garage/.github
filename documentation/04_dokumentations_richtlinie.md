@@ -2,11 +2,13 @@
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 # Index
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 1. [Prolog - Die Frage nach dem "Warum?"](#Prolog)
 2. [Dokumentation eines Projektes](#Dokumentation-eines-Projektes)
 
 # Prolog
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 Über die Frage nach dem "Warum?".
 
@@ -19,4 +21,8 @@ Eines unserer Hauptziele ist es, eine Community, einen HUB aufzubauen. Für Tech
 Zunächst aber noch eine Engrenzung. Also zu dem, was ist dokumentationswert ist und was nicht. Wenn du selber nur mal experimentierst und eventuell auch eine Anleitung von uns nachbaust, dann brauchst du das natürlich nicht dokumentieren. Aber wenn du bei uns etwas neues baust oder programmierst, von dem du denkst, dass es auch für andere interessant sein könnte, dann halte dich doch an diesen Leitfaden und helfe uns beim Aufbau einer umfangreichen Projekt-/Experimente-Bibliothek! 🐱‍🏍
 
 # Dokumentation eines Projektes
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
+## Voraussetzungen
+
+Um effektiv in der Garage mitarbeiten und dokumentieren zu können, muss der Organisation beigetreten werden. Dies kann z.B. über eine Einladung durch robert.kuehnl@rohde-schwarz.com erfolgen. In diesem Schritt werden Member-Berechtigungen vergeben.
