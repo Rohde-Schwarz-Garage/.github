@@ -1,4 +1,5 @@
 # Aloha 🌺
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 👋 Hi, wir sind die @Rohde-Schwarz-Garage
 
@@ -29,7 +30,7 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 5. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
 
 # Angebot und Konzept
-![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage soll besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
 
@@ -40,7 +41,7 @@ Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten
 - [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
 # Zielgruppen
-![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 Das Angebot der Garage richtet sich an:
 
@@ -50,7 +51,7 @@ Das Angebot der Garage richtet sich an:
 - Junge Talente, Start-Up's, etc.
 
 # Ausstattung
-![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 Unsere Garage ist ausgelegt für ca. 4 Besucher. Dabei konzentriet sich die Garage auf die zwei Werkbänke, an denen gearbeitet werden kann. In der Garage selber stehen verschiedene Geräte von Rohde & Schwarz, aber auch ein 3D Drucker sowie Lötkolben mit Abluft zur Verfügung. Daneben kann, nach Rücksprache, auf verschiedene Maschinen unserer Rapid-Prototyping Werkstatt zurückgergriffen werden.
 
@@ -70,7 +71,7 @@ Unser Material, die Maschinen und Geräte im Überblick ⚙️
 - [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
 # Abläufe und Kontakt
-![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 Wie geht es nun weiter? Du interessierst dich für unsere Garage? Dann schau mal in unsere Dokumentation zu den Abläufen :).
 
