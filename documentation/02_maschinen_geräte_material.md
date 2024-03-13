@@ -20,7 +20,7 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte 
 
 Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab bereits in die Bedienung der Maschinen einzulesen. 
 
->Aktuell befinden sich die Unterweisunden und Einweisungen im Aufbau
+>Aktuell befinden sich die Unterweisungen und Einweisungen im Aufbau
 
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
