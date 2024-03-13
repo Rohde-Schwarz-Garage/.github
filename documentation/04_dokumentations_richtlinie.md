@@ -2,7 +2,6 @@
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 # Index
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 1. [Prolog - Die Frage nach dem "Warum?"](#Prolog)
 2. [Dokumentation eines Projektes](#Dokumentation-eines-Projektes)
