@@ -1,4 +1,4 @@
-# Eine nette Überschrift (Projektname / Willkommen bei Projekt XYZ) 💥
+# Eine nette Überschrift (Projektname) 💥
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 <!--- Hier kommt ein schönes Bild --->
