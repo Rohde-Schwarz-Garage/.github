@@ -22,6 +22,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 Bevor du loslegt, mach dir Gedanken, was du erreichen möchtest!
 - Möchtest du dich z.B. mit Mikrocontrollern vertraut machen?
 - Möchtest du einfach mal etwas ausprobieren?
+- Anregungen findest du in Zukunft in unserer [Projekt-Datenbank](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/03_projekte_und_experimente.md)
 - Haben wir dafür die notwendigen Mittel? > Informiere dich über unsere [Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/02_maschinen_ger%C3%A4te_material.md)
 - Musst du ggf. noch eigenes Material bestellen?
 
@@ -56,10 +57,11 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 
 1. [Anmeldung vor Ort](#Anmeldung-vor-Ort)
 2. [Einweisungen](#Einweisungen)
-3. [Nutzung von Maschinen, Geräten und Material](#Nutzung-von-Maschinen-Geräten-und-Material)
-4. [Nutzung der Küche](#Nutzung-der-Küche)
-5. [Ordnung](#Ordnung-wiederherstellen)
-6. [Abmeldung](#Abmeldung-beim-Verlassen)
+3. [Projekte, Ideen & Dokumentation](#Projekte-und-Dokumentation)
+4. [Nutzung von Maschinen, Geräten und Material](#Nutzung-von-Maschinen-Geräten-und-Material)
+5. [Nutzung der Küche](#Nutzung-der-Küche)
+6. [Ordnung](#Ordnung-wiederherstellen)
+7. [Abmeldung](#Abmeldung-beim-Verlassen)
 
 ### Anmeldung vor Ort
 ---
@@ -72,6 +74,12 @@ Die Anmeldung vor Ort findet im zweiten Stockwerk der Friedenstraße 32 ("BCF Ge
 Du erhältst zum Start:
 - [Eine Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5) 
 - [Anleitungen und Einweisungen zu den Geräten](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
+
+### Projekte und Ideen
+---
+Arbeitest du an einem größeren Vorhaben? Eventuell sogar mit mehreren Personen? Dann kannst du auf verschiedene Hilfsmittel zurückgreifen:
+
+*
 
 ### Nutzung von Maschinen, Geräten und Material
 ---
