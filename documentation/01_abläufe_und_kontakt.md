@@ -109,7 +109,7 @@ Bitte auf Ordnung achten. Benutzes Geschirr ist in den Geschirrspüler zu räume
 
 ### Ordnung wiederherstellen
 ---
-Bitte führe die Garage in ihren Ausgangszustand zurück, dies beinhaltet neben der Einrichtung auch die Geräte, Kabel und alles weitere, was du benutzt hast. Weiterhin nutze einen der Computer vor Ort, um mittels Outlook die Liste mit deinem Verbrauchsmaterial, welches nicht mehr zurückgeführt werden kann an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) zu senden.
+Bitte führe die Garage in ihren Ausgangszustand zurück, dies beinhaltet neben der Einrichtung auch die Geräte, Kabel und alles weitere, was du benutzt hast. Weiterhin nutze einen der Computer vor Ort, um mittels Outlook die Liste mit deinem Verbrauchsmaterial, welches nicht mehr zurückgeführt werden kann an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) zu senden. Alternativ kannst du das verbrauchte Material auch über [diesen Sammelbeitrag](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/2) hier in GitHub gemeldet werden.
 
 Stelle bitte sicher, dass bei deinem Verlassen keine elektronischen Geräte mehr eingeschaltet oder aktiv sind.
 
