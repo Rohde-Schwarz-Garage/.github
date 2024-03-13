@@ -43,6 +43,12 @@ Jedes Repository kann:
 - öffentlich oder privat erstellt werden (privat = nur für die beteiligten Personen und die Administratoren sichtbar)
 - Zusatzfunktionen wie: Diskussionen (quasi ein eigenes Forum), Issues (Bug-Tracker, Einfache Aufgabenverwaltung), Wikis erhalten
 
+Empfehlung:
+
+- ✅ Diskussionen > Mindestens jedoch ✅ Issues aktivieren
+- ✅ Projekt-Feature, um den Überblick zu behalten
+- ✅ Neue Repositories zunächst auf privat setzen
+
 ## Repository Aufbau
 
 Beim Aufbau eines neuen Repositories ist auf Folgendes zu achten:
