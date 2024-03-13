@@ -27,11 +27,13 @@ Zunächst aber noch eine Engrenzung. Also zu dem, was ist dokumentationswert ist
 ## Voraussetzungen
 
 ### GitHub - Mitglied der Organisation werden
+---
 Um effektiv in der Garage mitarbeiten und dokumentieren zu können, muss der Organisation beigetreten werden. Dies kann z.B. über eine Einladung durch [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) erfolgen. In diesem Schritt werden Member-Berechtigungen vergeben.
 
 Alternativ kann hier auf den "Contributor" (zu Deutsch ~ "Mitmacher") Account zurückgegriffen werden. Die Zugangsdaten für rohde-schwarz-contributor können bei [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) angefragt werden. Bzw. wird dieser Account auf den PC's in der Garage entsprechend angemeldet.
 
 ### Repository für Projekt anlegen
+---
 Ein Repository ist ein Ablageort für Projekte. Es ist wie ein Ordner unter Windows. In diesem könnt ihr Unterordner, also eine Struktur anlegen. Repositories können durch Administratoren, z.B. [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) angelegt werden. Anschließend wird die entsprechende Berechtigung für die Mitglieder ("Member") vergeben. Die können dann in diesem Repository frei arbeiten.
 
 Jedes Repository kann:
