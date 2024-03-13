@@ -148,4 +148,4 @@ Sollte dir etwas fehlen, Material leer sein, oder Ähnliches, so erstelle bitte 
 
 Wenn du Material oder Bausteine verbraucht hast und diese nicht wieder zurückgelegt werden können, so informiere uns bitte im Sammelbeitrag "Entnommenes Material" darüber. Dies gilt ebenfalls für temporär entliehene Gegenstände (z.B. Raspberry), wenn Auszubildende damit in ihrer Abteilung arbeiten.
 
-- [Entnommenes Material melden](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/2)
+- [Entnommenes Material melden ❕](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/2)
