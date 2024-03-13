@@ -1,3 +1,5 @@
+*Um die Fotos in diesem Dokument zu vergrößern, wähle diese bitte mit der rechten Maustaste aus und klicke auf "in neuem Tab öffnen"*
+
 # Maschinen, Geräte und Material
 
 In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte beachte, dass nicht alle Geräte ohne Weiteres genutzt werden können - Stichwort Arbeitssicherheit. Du brauchst ggf. erst eine Unterweisung, um mit einem bestimmten Maschine arbeiten zu dürfen. Alle notwendigen informationen dazu findest du hier.
