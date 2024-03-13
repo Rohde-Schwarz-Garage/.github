@@ -24,6 +24,7 @@ Zunächst aber noch eine Engrenzung. Also zu dem, was ist dokumentationswert ist
 
 1. [Voraussetzungen](#Voraussetzungen)
 2. [Repository Aufbau](#Repository-Aufbau)
+3. [Dokumentations-Vorlage](#Dokumentations-Vorlage)
 
 ## Voraussetzungen
 
