@@ -21,8 +21,12 @@ Wer ist der Ansprechpartner. Wer ist an dem Projekt beteiligt? Kann ggf. bei Bed
 <!--- Trennbalken bei Überschriften Level 1 (#) + kann kopiert werden --->
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
+Hier fügen wir eine aussagekräftige Detailbeschreibung unseres Projektes durch.
+
 # Eigene Struktur
 <!--- Trennbalken bei Überschriften Level 1 (#) + kann kopiert werden --->
+
+Anschließend kann eine eigene Struktur, die an das Projekt anpegasst ist, erstellt werden. Gerne in die tieferen Dokumentationen weiter verlinken.
 
 <!--- Weitere Indexe sind immer möglich --->
 1. [Unterstruktur](#Unterstruktur)
