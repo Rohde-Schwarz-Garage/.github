@@ -3,7 +3,7 @@
 
 **Zum aktuellen Zeitpunkt läuft die Garage als Testprojekt und kann nur durch Mitarbeiter mit Kindern gebucht werden. Zum Ende des Jahres 2024 wird die Testphase ausgewertet. Geplant ist, dass die Garage anschließend öffentlich buchbar wird. In der Zwischenzeit nehmen wir aber gerne individuelle Anfragen per Mail entgegen.**
 
-Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für dich zusammengestellt:
+Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersichtlich für dich zusammengestellt:
 
 1. [Vorher](#Vorher)
 2. [Während](#Während)
