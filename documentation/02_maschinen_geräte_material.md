@@ -38,7 +38,7 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab ber
 - [Geräte 🎮](#Geräte)
 - [Maschinen 🥽](#Maschinen)
 - [Aktuelle Liste 📑](#Aktuelle-Liste)
-- [Fehlt etwas? 🤔](#Material-anfragen) 
+- [Fehlt etwas? 🤔 - Material anfragen und entnommenes Material melden](#Material-anfragen-und-entnommenes-Material-melden) 
 
 ## Material und Werkzeug
 
@@ -140,7 +140,7 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 - Netzteile (vers.)
 - MicroSD Karten & Adapter
 
-# Material anfragen
+# Material anfragen und entnommenes Material melden
 
 Sollte dir etwas fehlen, Material leer sein, oder Ähnliches, so erstelle bitte einen neuen Beitrag in der Kategorie "Material":
 
