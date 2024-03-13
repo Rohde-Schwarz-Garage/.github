@@ -3,9 +3,11 @@
 
 # Prolog
 
+Über die Frage nach dem "Warum?".
+
 > Was wird wie und wo dokumentiert?
 
-Dieser Frage möchten wir uns in diesem Dokument widmen. Nun, ersteinmal der Hintergrund, warum wir überhaupt dokumentieren und warum eine Einheitlichkeit und Strukturierung von Nöten ist.
+Nun, ersteinmal der Hintergrund. Warum wir überhaupt dokumentieren und warum eine Einheitlichkeit und Strukturierung von Nöten ist.
 
 Eines unserer Hauptziele ist es, eine Community, einen HUB aufzubauen. Für Technikinteressierte, für Schüler, Studenten und Neugierige. Mit jedem netten kleinen Projekt, mit jedem Stück Software und Hardware könnt ihr, kannst du dazu beitragen, dieses Ziel ein Stück weit zu verfolgen. Wenn du jetzt also etwas bei uns baust und programmierst, dann halte es doch gleich so fest, dass jemand anderes deine Idee nachbauen und eventuell sogar weiterentwickeln oder seinen Bedürfnissen anpassen kann. Vielleicht kannst du dich selbst noch an dein erstes Programm oder deinen ersten Testaufbau erinnern. Du musstest vielleicht lange recherchieren um Lösungen oder Hilfestellungen zu finden. Es wäre doch cool gewesen, hättest du alles an einem Ort gefunden, oder? 😉
 
