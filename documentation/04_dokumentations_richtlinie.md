@@ -22,6 +22,20 @@ Zunächst aber noch eine Engrenzung. Also zu dem, was ist dokumentationswert ist
 # Dokumentation eines Projektes
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
+1. [Voraussetzungen](#Voraussetzungen)
+
 ## Voraussetzungen
 
-Um effektiv in der Garage mitarbeiten und dokumentieren zu können, muss der Organisation beigetreten werden. Dies kann z.B. über eine Einladung durch robert.kuehnl@rohde-schwarz.com erfolgen. In diesem Schritt werden Member-Berechtigungen vergeben.
+### GitHub - Mitglied der Organisation werden
+Um effektiv in der Garage mitarbeiten und dokumentieren zu können, muss der Organisation beigetreten werden. Dies kann z.B. über eine Einladung durch [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) erfolgen. In diesem Schritt werden Member-Berechtigungen vergeben.
+
+Alternativ kann hier auf den "Contributor" (zu Deutsch ~ "Mitmacher") Account zurückgegriffen werden. Die Zugangsdaten für rohde-schwarz-contributor können bei [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) angefragt werden. Bzw. wird dieser Account auf den PC's in der Garage entsprechend angemeldet.
+
+### Repository für Projekt anlegen
+Ein Repository ist ein Ablageort für Projekte. Es ist wie ein Ordner unter Windows. In diesem könnt ihr Unterordner, also eine Struktur anlegen. Repositories können durch Administratoren, z.B. [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) angelegt werden. Anschließend wird die entsprechende Berechtigung für die Mitglieder ("Member") vergeben. Die können dann in diesem Repository frei arbeiten.
+
+Jedes Repository kann:
+
+- mit dem Projekt-Feature erstellt werden (Projektmanagement-Werkzeug, zur Verwaltung der Aufgaben und beteiligten Personen)
+- öffentlich oder privat erstellt werden (privat = nur für die beteiligten Personen und die Administratoren sichtbar)
+- Zusatzfunktionen wie: Diskussionen (quasi ein eigenes Forum), Issues (Bug-Tracker, Einfache Aufgabenverwaltung), Wikis erhalten
