@@ -81,4 +81,6 @@ Du kannst dich zudem in unserer Community beteiligen. Teile uns deine Ideen mit,
 
 - [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions)
 
+---
+
 ![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_09.png?raw=true)
