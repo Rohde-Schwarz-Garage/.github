@@ -115,6 +115,13 @@ Bitte auf Ordnung achten. Benutzes Geschirr ist in den Geschirrspüler zu räume
 
 Bitte führe die Garage in ihren Ausgangszustand zurück, dies beinhaltet neben der Einrichtung auch die Geräte, Kabel und alles weitere, was du benutzt hast. Weiterhin nutze einen der Computer vor Ort, um mittels Outlook die Liste mit deinem Verbrauchsmaterial, welches nicht mehr zurückgeführt werden kann an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) zu senden. Alternativ kannst du das verbrauchte Material auch über [diesen Sammelbeitrag](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/2) hier in GitHub melden.
 
+Auszubildende, die Material temporär aus der Garage entnehmen, um damit z.B. Arbeitsplatz zu arbeiten, melden dies bitte ebenso über den gleichen Workflow. Damit ist sichergestellt, dass stets bekannt ist, welches Material in der Garage zur Verfügung steht.
+
+Workflow Links:
+
+- [(Verbrauchs-)Material anfragen ✋](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/material)
+- [Entnommenes Material melden ❕](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/2)
+
 Stelle bitte sicher, dass bei deinem Verlassen keine elektronischen Geräte mehr eingeschaltet oder aktiv sind.
 
 ## Abmeldung beim Verlassen
