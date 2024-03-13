@@ -61,7 +61,7 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 | RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
 | :---: | :---: | :---: |
 | ![RTA](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_RTA4004_Osziloskop.png?raw=true) | ![NGE](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_NGE100_Netzteil.png?raw=true) | ![HMC8012](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_HMC8012_Digitales_Multimeter.png?raw=true) |
-| Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK4 3D Drucker |
+| Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK3S 3D Drucker |
 | ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Loetkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
 
 
@@ -77,3 +77,59 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 | Drehmaschine | 3D Drucker (Resin) |
 | :---: | :---: |
 | ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Drehmaschine.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_Resin.png?raw=true) |
+
+### Aktuelle Liste
+
+
+**Raspberry**
+- 1x Experimentier-Koffer mit Tastatur, Sensoren und Display
+- 2x Raspberry 3 Model B
+- 1x HQ Camera, M12
+- 1x HQ Camery, C/CS
+- 1x 16mm Objektiv C/CS
+- 1x 2.7mm M12 Objektiv
+- 1x 8mm M12 Objektiv
+- 1x 25mm M12 Objektiv
+- 1x Touchscreen
+- 1x Gehäuse mit Lüfter
+- 1x Kühlkörperset
+
+**Arduino**
+- 1x Make your UNO Kit
+- 3x UNO R3
+- 1x MKR IoT Carrier Rev2
+- 1x GPS Modul U-Blox Neo-7M
+- 1x Kapazitiver Touchsensor
+- 1x MKR WIFI Board 1010
+- 1x NANO Connect RP 2040
+- 1x UNO WIFI Board R4
+- 1x MKR RGB Shield
+- 1x Ethernet 2 Shield
+- 1x Giga Display Shield
+- 1x PRO Nica Sense ME
+
+**Sensorik**
+- 1x Sensorkit X40 (Temperatur, ERschütterung, Magnetfeld, Infrarot, Taster, Lichtschranke, Piezo-Buzzer, LED, Feuchtigkeit, Neigung, Fotowiderstand, 5V Relais, Reed-Magnet, IR-Empfänger, Joystick, Hall, Flammen, Klopfsensor, Hindernisdetektor, Linetracking, Magnetsensor, Touchsensor, Sound, Mikrofon, Herzschlag, Drehschalter, Ultraschall/Abstand, Voltage Translator, Druck, A/D Converter)
+- 1x SEN MQ2 ANalog Gassensor (brennbare Gase und Rauch)
+- 1x RFID RC522 Sensor + Karte (Mifare)
+- 1x Calliope mini CO2 Sensor
+- 1x DHT22 Temperatursensor
+
+**Sonstiges Zubehör & Tools**
+- JetRacer AI Racecar Kit
+- 1x ESP32-S3-DevKitM-1
+- 2x Breadboard mit Anschlüss für Netzteil
+- Breadboard Jumper Wire / Steckbrücken / Drahtbrücken
+- Widerstände (vers.)
+- Schrumpfschläuche
+- 3x NEOPIXEL LED Ring (Neopr16)
+- 3x NEOPIXEL LED Stab (Neops8)
+- 3x NEOPIXEL LED Quadrat (Neopq64)
+- 4x NEOPIXEL Hexagon
+- 1x Pico RGB 4x$ Keypad
+- 1x SBC 4x4 Button Matrix
+- LED Set 250 Stck.
+- 5x Taster/Schalter
+- USB Kabel (vers.)
+- Netzteile (vers.)
+- MicroSD Karten & Adapter
