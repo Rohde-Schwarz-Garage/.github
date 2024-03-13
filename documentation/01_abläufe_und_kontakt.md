@@ -9,7 +9,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 3. [Danach](#Danach) 
 
 ## Vorher
-![image](https://github.com/Rohde-Schwarz-Garage/.github/assets/86538203/0495eee2-5824-4815-a3ea-cf46161b341a)
+![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
 
 1. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
 2. [Vorbereitung](#Vorbereitung)
@@ -32,7 +32,7 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 - 🛑 [Prüfe hier den aktuellen Status der Geräte und Maschinen](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)
 
 ## Während
-![image](https://github.com/Rohde-Schwarz-Garage/.github/assets/86538203/0495eee2-5824-4815-a3ea-cf46161b341a)
+![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
 
 1. [Anmeldung vor Ort](#Anmeldung-vor-Ort)
 2. [Einweisungen](#Einweisungen)
@@ -84,7 +84,7 @@ Stelle bitte sicher, dass bei deinem Verlassen keine elektronischen Geräte mehr
 Sobald die Garage verlassen und am Tag nicht mehr dorthin zurückgekehrt wird, bitte beim Ansprechpartner, bei dem die Anmeldung durchgeführt wurde, wieder abmelden. Der Gästeausweis ist täglich wieder abzugeben. Er darf nicht mit nach Hause genommen werden.
 
 ## Danach
-![image](https://github.com/Rohde-Schwarz-Garage/.github/assets/86538203/0495eee2-5824-4815-a3ea-cf46161b341a)
+![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
 
 ### Feedback 
 Um uns kontinuierlich verbessern zu können, sind wir auf dein Feedback angewiesen. Teile uns mit, was dir gefallen hat und wo du noch Verbesserungsmöglichkeiten siehst.
