@@ -13,7 +13,6 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte 
 2. [Arbeitssicherheit🧷](#Arbeitssicherheit)
 
 ## Hinweise
----
 
 - Unsere Geräte stehen dir natürlich sehr gerne zur Verfügung. 
 - Verbrauchsmaterial ist in normalen Beständen verfügbar. 
@@ -25,7 +24,6 @@ Aktuelle Hinweise und Statusmeldungen (Raparaturen, Defekte, etc.) über die Ger
 - 🛑[Statusmeldungen über Geräte](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)🟢
 
 ## Arbeitssicherheit
----
 
 Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab bereits in die Bedienung der Maschinen einzulesen. 
 
@@ -42,7 +40,6 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab ber
 - [Aktuelle Liste 📑](#Aktuelle-Liste)
 
 ## Material und Werkzeug
----
 
 Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroller bis hin zu Sernsoren in der Garage. Eine optimale Ausgangssituation wenn du dich mit Themen wie IoT oder Automatisierung vertraut machen möchtest.
 
@@ -55,7 +52,6 @@ Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroll
  | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_04.png?raw=true)
 
 ## Geräte
----
 
 Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlich können spezielle Rodhe & Schwarz Geräte angefragt werden.
 
@@ -77,7 +73,6 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 
 ## Maschinen
----
 
 Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
 
@@ -90,7 +85,6 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 | ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Drehmaschine.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_Resin.png?raw=true) |
 
 ## Aktuelle Liste
----
 
 **Raspberry**
 - 1x Experimentier-Koffer mit Tastatur, Sensoren und Display
