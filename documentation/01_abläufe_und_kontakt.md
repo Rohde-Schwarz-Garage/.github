@@ -31,6 +31,12 @@ Nun, nachdem feststeht, was du machen möchtest, schau in unseren Kalender, find
 - Du kannst über folgenden Link/Kalender die derzeitige Buchungslage einsehen: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
 - Um die Garage zu buchen, wende dich anschließend per Mail an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)
 
+Wie sieht das eigentlich mit den "Öffnungszeiten" ⌚ aus?
+Während der Testphase können wir dir aktuell folgende Zeiten, nach Absprache, anbieten:
+- Mo-Do ~ 0700-1600
+- Fr ~ 0700-1200
+Die Zeiten sind nicht in Stein gemeißelt 🔨. Sie dienen als grobe Orientierung 😊. Wir müssen auch jede Anfrage zusätzlich intern prüfen. Es kann durchaus sein, dass unsere Abteilung auch mal nicht besetzt ist. Bitte habe dafür Verständnis.
+
 ### Vorbereitung
 ---
 Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pflichten gerecht werden, gibt es einige Punkte, die du bereits vor deinem Besuch vorbereiten kannst. 
