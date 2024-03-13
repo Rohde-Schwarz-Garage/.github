@@ -6,12 +6,13 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte 
 
 ![Garage](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_04.png?raw=true)
 
-## Einführung 🚀
+# Einführung 🚀
+![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
 
 1. [Hinweise ☝️](#Hinweise)
 2. [Arbeitssicherheit🧷](#Arbeitssicherheit)
 
-### Hinweise
+## Hinweise
 
 - Unsere Geräte stehen dir natürlich sehr gerne zur Verfügung. 
 - Verbrauchsmaterial ist in normalen Beständen verfügbar. 
@@ -22,7 +23,7 @@ Aktuelle Hinweise und Statusmeldungen (Raparaturen, Defekte, etc.) über die Ger
 
 - 🛑[Statusmeldungen über Geräte](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)🟢
 
-### Arbeitssicherheit
+## Arbeitssicherheit
 
 Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab bereits in die Bedienung der Maschinen einzulesen. 
 
@@ -30,13 +31,15 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab ber
 
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
-## Übersicht 👀
+# Übersicht 👀
+![image](https://github.com/Rohde-Schwarz-Garage/.github-private/assets/86538203/4021689f-6e3a-451f-9d77-b73fb7a25712)
 
 - [Material und Werkzeug🧱](#Material-und-Werkzeug)
 - [Geräte 🎮](#Geräte)
 - [Maschinen 🥽](#Maschinen)
+- [Aktuelle Liste 📑](#Aktuelle-Liste)
 
-### Material und Werkzeug
+## Material und Werkzeug
 
 Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroller bis hin zu Sernsoren in der Garage. Eine optimale Ausgangssituation wenn du dich mit Themen wie IoT oder Automatisierung vertraut machen möchtest.
 
@@ -48,7 +51,7 @@ Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroll
  |Zubehör |  |  |
  | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_04.png?raw=true)
 
-### Geräte
+## Geräte
 
 Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlich können spezielle Rodhe & Schwarz Geräte angefragt werden.
 
@@ -69,8 +72,7 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 | ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Loetkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
 
 
-
-### Maschinen
+## Maschinen
 
 Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
 
@@ -82,7 +84,7 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 | :---: | :---: |
 | ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Drehmaschine.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_Resin.png?raw=true) |
 
-### Aktuelle Liste
+## Aktuelle Liste
 
 
 **Raspberry**
