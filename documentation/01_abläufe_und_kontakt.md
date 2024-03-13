@@ -28,7 +28,7 @@ Bevor du loslegt, mach dir Gedanken, was du erreichen möchtest!
 
 ### Freie Termine einsehen und buchen
 ---
-Nun, nachdem feststeht, was du machen möchtest, schau in unseren Kalender, finde einen Termiin und frage ihn an! 😉
+Nun, nachdem feststeht, was du machen möchtest, schau in unseren Kalender, finde einen Termin und frage ihn an! 😉
 - Du kannst über folgenden Link/Kalender die derzeitige Buchungslage einsehen: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
 - Um die Garage zu buchen, wende dich anschließend per Mail an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)
 
