@@ -56,17 +56,9 @@ Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu
 
 - Die README.MD dient als primäre Informationsdatei, über sie wird die Dokumentation aufgebaut (mit Links, etc.)
 - Eine Ordnerstruktur wird wie folgt erstellt:
-
-#
-!
-!  -  [profile]  *Wird automatisch angelegt, wenn "README erstellen" beim Erstellen des Repositories angeklickt wurde*
-!          !
-!          !  -  README.md *Hauptdatei zur Dokumentation - von hier aus wird verlinkt*
-!
-!  -  [documentation]  *Pfad zur Ablage der Dokumentation*
-              !  -  [images]  *Pfad für Bilder*
-              !         !
-              !         !  -  [Unterordner] *z.B. pictures, graphics, etc.*
-              !
-              !  -  [Weitere Unterordner] *zur weiteren Strukturierung, z.B. videos, visio, etc.*
-!  -  
+- - Ordner [profile] *sollte automatisch erstellt worden sein*
+- - - README.md *Hauptdatei zur Dokumentation - von hier aus wird verlinkt*
+- - Ordner [documentation] *Pfad zur Ablage der Dokumentation*
+- - - Unterordner [images] *Pfad für Bilder*
+- - - - Unterordner *z.B. pictures, graphics, etc.*
+- - - Unterordner *zur weiteren Strukturierung, z.B. videos, visio, etc.*
