@@ -79,7 +79,7 @@ Du erhältst zum Start:
 ---
 Arbeitest du an einem größeren Vorhaben? Eventuell sogar mit mehreren Personen? Dann kannst du auf verschiedene Hilfsmittel zurückgreifen:
 
-*
+- In Gruppen mit der Hilfe von [Projekten in GitHub](https://github.com/Rohde-Schwarz-Garage/.github-community/projects) zusammenarbeiten
 
 ### Nutzung von Maschinen, Geräten und Material
 ---
