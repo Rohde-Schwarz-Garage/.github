@@ -43,7 +43,7 @@ Die Zeiten sind nicht in Stein gemeißelt 🔨. Sie dienen als grobe Orientierun
 
 Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pflichten gerecht werden, gibt es einige Punkte, die du bereits vor deinem Besuch vorbereiten kannst. 
 
-**Hinweis: Wir befinden uns aktuell noch in der Testphase. Die Unterlagen sind teilweise noch in der Erstellung.**
+**Hinweis: Wir befinden uns aktuell noch in der Testphase. Die Unterlagen sind teilweise noch in der Erstellung. Die Unterweisungen erfolgen bis dahin persönlich vor Ort.**
 - [Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5)
 - [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
@@ -135,6 +135,6 @@ Sobald die Garage verlassen und am Tag nicht mehr dorthin zurückgekehrt wird, b
 
 Um uns kontinuierlich verbessern zu können, sind wir auf dein Feedback angewiesen. Teile uns mit, was dir gefallen hat und wo du noch Verbesserungsmöglichkeiten siehst.
 
-*Wird aktuell noch erstellt*
+*Wird aktuell noch erstellt!*
 
 - [Zum Feedback Formular](https://elearning-poc.rohde-schwarz.com/course/view.php?id=6)
