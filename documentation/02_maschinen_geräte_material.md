@@ -142,6 +142,6 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 
 # Material anfragen
 
-Sollte euch etwas fehlen. Material leer sein, so erstellt bitte einen neuen Beitrag in der Kategorie "Material":
+Sollte euch etwas fehlen, Material leer sein, oder Ähnliches, so erstellt bitte einen neuen Beitrag in der Kategorie "Material":
 
 - [(Verbrauchs-)Material anfragen ✋](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/material)
