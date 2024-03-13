@@ -40,6 +40,8 @@ Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten
 
 - [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
+>Bitte beachte, dass das Konzept der Garage aktuell keine Betreuung deiner Projekte mit vorsieht. Wir prüfen derzeit, ob wir dies langfristig sicherstellen können, aktuell können wir dir aber nur die Garage selbst anbieten. In Einzelfällen, nach Rücksprache, gibt es jedoch unter Umständen immer mal wieder die Möglichkeit auf das Fachwissen oder Tipps von Kolleginnen und Kollegen zurückzugreifen.
+
 # Zielgruppen
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
