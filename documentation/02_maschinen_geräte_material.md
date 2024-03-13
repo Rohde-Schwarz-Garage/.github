@@ -20,7 +20,7 @@ In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte 
 
 Aktuelle Hinweise und Statusmeldungen (Raparaturen, Defekte, etc.) über die Geräte der Garage findest du hier:
 
-🛑[Statusmeldungen über Geräte](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)🟢
+- 🛑[Statusmeldungen über Geräte](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)🟢
 
 ### Arbeitssicherheit
 
