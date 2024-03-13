@@ -30,7 +30,7 @@ Zunächst aber noch eine Engrenzung. Also zu dem, was ist dokumentationswert ist
 
 ### GitHub - Mitglied der Organisation werden
 ---
-Um effektiv in der Garage mitarbeiten und dokumentieren zu können, muss der Organisation beigetreten werden. Dies kann z.B. über eine Einladung durch [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) erfolgen. In diesem Schritt werden Member-Berechtigungen vergeben.
+Um effektiv in der Garage mitarbeiten und dokumentieren zu können, muss der Organisation beigetreten werden. Dies kann z.B. über eine Einladung durch [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) erfolgen. In diesem Schritt wird z.B. eine sogenannte "Outside-Collaborator"-Berechtigungen vergeben.
 
 Alternativ kann hier auf den "Contributor" (zu Deutsch ~ "Mitmacher") Account zurückgegriffen werden. Die Zugangsdaten für rohde-schwarz-contributor können bei [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) angefragt werden. Bzw. wird dieser Account auf den PC's in der Garage entsprechend angemeldet.
 
