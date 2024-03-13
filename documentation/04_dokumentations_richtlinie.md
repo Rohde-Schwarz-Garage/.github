@@ -23,6 +23,7 @@ Zunächst aber noch eine Engrenzung. Also zu dem, was ist dokumentationswert ist
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 1. [Voraussetzungen](#Voraussetzungen)
+2. [Repository Aufbau](#Repository-Aufbau)
 
 ## Voraussetzungen
 
@@ -41,3 +42,31 @@ Jedes Repository kann:
 - mit dem Projekt-Feature erstellt werden (Projektmanagement-Werkzeug, zur Verwaltung der Aufgaben und beteiligten Personen)
 - öffentlich oder privat erstellt werden (privat = nur für die beteiligten Personen und die Administratoren sichtbar)
 - Zusatzfunktionen wie: Diskussionen (quasi ein eigenes Forum), Issues (Bug-Tracker, Einfache Aufgabenverwaltung), Wikis erhalten
+
+  ## Repository Aufbau
+
+Beim Aufbau eines neuen Repositories ist auf Folgendes zu achten:
+
+- Auswahl eines Names (kann kreativ sein)
+- Eingabe einer aussagekräftigen Beschreibung, die das Projekt kurz umreißt - "was kann man damit machen"
+- Erstellung mit einer README.md Datei (Option im Assistenten)
+- Lizenzauswahl korrekt anpassen, im Zweifel erstmal blank lassen
+
+Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu achten:
+
+- Die README.MD dient als primäre Informationsdatei, über sie wird die Dokumentation aufgebaut (mit Links, etc.)
+- Eine Ordnerstruktur wird wie folgt erstellt:
+
+#
+|
+|  -  [profile]  *Wird automatisch angelegt, wenn "README erstellen" beim Erstellen des Repositories angeklickt wurde*
+|          |
+|          |  -  README.md *Hauptdatei zur Dokumentation - von hier aus wird verlinkt*
+|
+|  -  [documentation]  *Pfad zur Ablage der Dokumentation*
+              |  -  [images]  *Pfad für Bilder*
+              |         |
+              |         |  -  [Unterordner] *z.B. pictures, graphics, etc.*
+              |
+              |  -  [Weitere Unterordner] *zur weiteren Strukturierung, z.B. videos, visio, etc.*
+|  -  
