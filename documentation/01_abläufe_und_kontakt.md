@@ -77,9 +77,13 @@ Du erhältst zum Start:
 
 ### Projekte und Ideen
 ---
-Arbeitest du an einem größeren Vorhaben? Eventuell sogar mit mehreren Personen? Dann kannst du auf verschiedene Hilfsmittel zurückgreifen:
+Arbeitest du an einem größeren Vorhaben? Eventuell sogar mit mehreren Personen? Dann kannst du z.B. auf GitHub-Projekte zurückgreifen:
 
 - In Gruppen mit der Hilfe von [Projekten in GitHub](https://github.com/Rohde-Schwarz-Garage/.github-community/projects) zusammenarbeiten
+
+Wenn du dein Projekt dokumentieren und auch für andere verfügbar machen möchtest, dann halte dich an unsere Dokumentations-Richtlinie.
+
+- [Dokumenations-Richtlinie 📕🖊](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/04_dokumentations_richtlinie.md)
 
 ### Nutzung von Maschinen, Geräten und Material
 ---
