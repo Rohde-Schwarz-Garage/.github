@@ -12,12 +12,22 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Abläufe für 
 ## Vorher
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-1. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
-2. [Vorbereitung](#Vorbereitung)
-3. [Status-Check](#Status-Check-der-Geräte)
+1. [Am Anfang war die Idee](#Am-Anfang-war-die-Idee)
+2. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
+3. [Vorbereitung](#Vorbereitung)
+4. [Status-Check](#Status-Check-der-Geräte)
+
+### Am Anfang war die Idee
+---
+Bevor du loslegt, mach dir Gedanken, was du erreichen möchtest!
+- Möchtest du dich z.B. mit Mikrocontrollern vertraut machen?
+- Möchtest du einfach mal etwas ausprobieren?
+- Haben wir dafür die notwendigen Mittel? > Informiere dich über unsere [Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/02_maschinen_ger%C3%A4te_material.md)
+- Musst du ggf. noch eigenes Material bestellen?
 
 ### Freie Termine einsehen und buchen
 ---
+Nun, nachdem feststeht, was du machen möchtest, schau in unseren Kalender, finde einen Termiin und frage ihn an! 😉
 - Du kannst über folgenden Link/Kalender die derzeitige Buchungslage einsehen: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
 - Um die Garage zu buchen, wende dich anschließend per Mail an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)
 
