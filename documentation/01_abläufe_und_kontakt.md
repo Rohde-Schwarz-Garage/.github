@@ -30,7 +30,7 @@ Bevor du loslegt, mach dir Gedanken, was du erreichen möchtest!
 
 Nun, nachdem feststeht, was du machen möchtest, schau in unseren Kalender, finde einen Termin und frage ihn an! 😉
 - Du kannst über folgenden Link/Kalender die derzeitige Buchungslage einsehen: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
-- Um die Garage zu buchen, wende dich anschließend per Mail an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)
+- Um die Garage zu buchen, wende dich anschließend per Mail an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) | Alternativ kannst du in GitHub über die Diskussionen [eine Anfrage](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/termin-anfrage) stellen 🤗
 
 Wie sieht das eigentlich mit den "Öffnungszeiten" ⌚ aus?
 Während der Testphase können wir dir aktuell folgende Zeiten, nach Absprache, anbieten:
