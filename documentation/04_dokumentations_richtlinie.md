@@ -38,6 +38,10 @@ Alternativ kann hier auf den "Contributor" (zu Deutsch ~ "Mitmacher") Account zu
 ---
 Ein Repository ist ein Ablageort für Projekte. Es ist wie ein Ordner unter Windows. In diesem könnt ihr Unterordner, also eine Struktur anlegen. Repositories können durch Administratoren, z.B. [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com), angelegt werden. Anschließend wird die entsprechende Berechtigung für die Mitglieder ("Member") vergeben. Die können dann in diesem Repository frei arbeiten.
 
+Der Standardworkflow zur Erstellung eines neuen Repositories:
+
+- [Eine neue Repository-Anfrage öffnen 🆕](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/repository-anfragen)
+
 Jedes Repository kann:
 
 - mit dem Projekt-Feature erstellt werden (Projektmanagement-Werkzeug, zur Verwaltung der Aufgaben und beteiligten Personen)
