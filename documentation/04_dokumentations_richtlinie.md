@@ -1,6 +1,8 @@
 # Richtlinien zur Dokumentation von Projekten in GitHub 📕🖊
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
+# Prolog
+
 > Was wird wie und wo dokumentiert?
 
 Dieser Frage möchten wir uns in diesem Dokument widmen. Nun, ersteinmal der Hintergrund, warum wir überhaupt dokumentieren und warum eine Einheitlichkeit und Strukturierung von Nöten ist.
