@@ -28,7 +28,7 @@ Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pfl
 
 ### Status-Check der Geräte
 
-- 🛑 3D Drucker befindet sich aktuell in Reparatur
+- 🛑 [Prüfe hier den aktuellen Status der Geräte und Maschinen](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)
 
 ## Während
 👩‍🏭
