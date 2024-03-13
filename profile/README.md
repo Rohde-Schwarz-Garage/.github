@@ -77,9 +77,20 @@ Wie geht es nun weiter? Du interessierst dich für unsere Garage? Dann schau mal
 
 - [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)
 
-Du kannst dich zudem in unserer Community beteiligen. Teile uns deine Ideen mit, stelle deine Projekte vor oder stelle deine Fragen 😉:
+Du kannst dich zudem in unserer Community beteiligen:
 
-- [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions)
+➡️ [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions) ⬅️
+
+Hier kannst du:
+
+- dich über Ankündigungen von uns informieren ℹ️
+- deine Ideen mitteilen oder an Ideen mitdiskutieren 💬
+- Fragen stellen 🙋‍♂️
+- deine Kreationen vorstellen 🤹‍♀️
+- Material anfragen 🤲
+- Statusmeldungen über die Maschinen und Geräte einsehen 🚧
+- Repositories für deine Projekte beantragen 🆕
+- Termine in der Garage anfragen 🗓️
 
 ---
 
