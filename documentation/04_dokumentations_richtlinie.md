@@ -66,4 +66,8 @@ Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu
 - - Ordner [documentation] *Pfad zur Ablage der Dokumentation*
 - - - Unterordner [images] *Pfad für Bilder*
 - - - - Unterordner *z.B. pictures, graphics, etc.*
+     
+## Dokumentation-Vorlage
+
+Es wird eine Vorlage für die README.md erstellt, die hier entsprechend verlinkt wird, um dann kopiert werden zu können.
 - - - Unterordner *zur weiteren Strukturierung, z.B. videos, visio, etc.*
