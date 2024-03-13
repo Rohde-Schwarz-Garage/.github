@@ -36,7 +36,7 @@ Alternativ kann hier auf den "Contributor" (zu Deutsch ~ "Mitmacher") Account zu
 
 ### Repository für Projekt anlegen
 ---
-Ein Repository ist ein Ablageort für Projekte. Es ist wie ein Ordner unter Windows. In diesem könnt ihr Unterordner, also eine Struktur anlegen. Repositories können durch Administratoren, z.B. [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com) angelegt werden. Anschließend wird die entsprechende Berechtigung für die Mitglieder ("Member") vergeben. Die können dann in diesem Repository frei arbeiten.
+Ein Repository ist ein Ablageort für Projekte. Es ist wie ein Ordner unter Windows. In diesem könnt ihr Unterordner, also eine Struktur anlegen. Repositories können durch Administratoren, z.B. [Robert Kuehnl 📬](mailto:robert.kuehnl@rohde-schwarz.com), angelegt werden. Anschließend wird die entsprechende Berechtigung für die Mitglieder ("Member") vergeben. Die können dann in diesem Repository frei arbeiten.
 
 Jedes Repository kann:
 
