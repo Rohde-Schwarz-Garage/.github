@@ -69,7 +69,7 @@ Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu
 - - - - Unterordner *z.B. pictures, graphics, etc.*
 - - - Unterordner *zur weiteren Strukturierung, z.B. videos, visio, etc.*
      
-## Dokumentation-Vorlage
+## Dokumentations-Vorlage
 
 Es wird eine Vorlage für die README.md erstellt, die hier entsprechend verlinkt wird, um dann kopiert werden zu können.
 
