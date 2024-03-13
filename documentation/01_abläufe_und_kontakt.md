@@ -75,7 +75,7 @@ Du erhältst zum Start:
 - [Eine Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5) 
 - [Anleitungen und Einweisungen zu den Geräten](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
 
-### Projekte und Ideen
+### Projekte und Dokumentation
 ---
 Arbeitest du an einem größeren Vorhaben? Eventuell sogar mit mehreren Personen? Dann kannst du z.B. auf GitHub-Projekte zurückgreifen:
 
