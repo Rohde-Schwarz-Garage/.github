@@ -71,5 +71,8 @@ Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu
      
 ## Dokumentations-Vorlage
 
-Es wird eine Vorlage für die README.md erstellt, die hier entsprechend verlinkt wird, um dann kopiert werden zu können.
+Hier geht es zur Vorlage der [README.md](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/templates/template_readme.md) Datei. Den Inhalt der Datei in die eigene README.md Datei kopieren und befüllen.
+
+Mehr Informationen zur Syntax von "Markdown"-Dokumenten sind z.B. hier zu finden: [Markdown-Guide](https://www.markdownguide.org/cheat-sheet/)
+
 
