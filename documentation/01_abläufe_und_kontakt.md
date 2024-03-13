@@ -36,7 +36,7 @@ Während der Testphase können wir dir aktuell folgende Zeiten, nach Absprache, 
 - Mo-Do ~ 0700-1600
 - Fr ~ 0700-1200
 
-Die Zeiten sind nicht in Stein gemeißelt 🔨. Sie dienen als grobe Orientierung 😊. Wir müssen auch jede Anfrage zusätzlich intern prüfen. Es kann durchaus sein, dass unsere Abteilung auch mal nicht besetzt ist. Bitte habe dafür Verständnis.
+Die Zeiten sind nicht in Stein gemeißelt 🔨. Sie dienen als grobe Orientierung 😊. Wir müssen jede Anfrage zusätzlich intern prüfen. Es kann durchaus sein, dass unsere Abteilung auch mal nicht besetzt ist. Bitte habe dafür Verständnis.
 
 ### Vorbereitung
 ---
