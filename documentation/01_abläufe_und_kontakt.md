@@ -103,7 +103,6 @@ Die Garage befindet sich, wie der Pausenraum der Ausbildung, im ersten Obergesch
 
 In der Küche steht zur Verfügung:
 
-- eine Mikrowelle
 - Ein Wassersprudler (verschiedenstufig)
 - Eine Kaffeemaschine
 
