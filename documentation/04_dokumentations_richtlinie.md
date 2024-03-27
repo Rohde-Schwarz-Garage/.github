@@ -59,7 +59,7 @@ Der Standardworkflow zur Erstellung eines neuen Repositories. Gerne unter der An
 Beim Aufbau eines neuen Repositories ist auf Folgendes zu achten:
 
 - Struktur des namen [typ-des-projektes]-[verantwortlicher-bereich-bei-4pa]-[optional-überprojekt-oder-sammelprojekt]-[projektname]
-- - Projekttypen [hw=Hardware] [sw=Software] [si=Systemintegration] [et=Elektronik]
+- - Projekttypen [hw=Hardware] [sw=Software] [si=Systemintegration] [et=Elektronik] [aw=Allgemeinwissen]
 - Auswahl eines Names (kann kreativ sein)
 - Eingabe einer aussagekräftigen Beschreibung, die das Projekt kurz umreißt - "was kann man damit machen"
 - Erstellung mit einer README.md Datei (Option im Assistenten)
