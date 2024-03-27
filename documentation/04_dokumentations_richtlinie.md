@@ -61,6 +61,8 @@ Beim Aufbau eines neuen Repositories ist auf Folgendes zu achten:
 - Auswahl eines Names (kann kreativ sein)
 - Eingabe einer aussagekräftigen Beschreibung, die das Projekt kurz umreißt - "was kann man damit machen"
 - Erstellung mit einer README.md Datei (Option im Assistenten)
+- In der README.md wird ggf. auf weiterführende Dokumentation (z.B. WORD, etc.) verlinkt
+- Für weiterführende Dokumentation wird ein zusätzliches Verzeichnis erstellt (siehe Verzeichnisstruktur ⬇)
 - Lizenzauswahl korrekt anpassen, im Zweifel erstmal blank lassen
 
 Nach der Erstellung sind folgende Schritte durchzuführen, bzw. auf Folgendes zu achten:
