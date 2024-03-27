@@ -136,4 +136,4 @@ Um uns kontinuierlich verbessern zu können, sind wir auf dein Feedback angewies
 
 *Wird aktuell noch erstellt!*
 
-- [Zum Feedback Formular](https://elearning-poc.rohde-schwarz.com/course/view.php?id=6)
+- [Zum Feedback Formular](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/feedback)
