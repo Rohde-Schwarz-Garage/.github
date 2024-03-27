@@ -54,12 +54,16 @@ Der Standardworkflow zur Erstellung eines neuen Repositories. Gerne unter der An
 
 - [Eine neue Repository-Anfrage öffnen 🆕](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/repository-anfragen)
 
+Zum Sammeln verschiedener Projekte unter einem Dach, also z.B. wenn eine Gruppe von Projekten/Repositories gemeinsam verteilt werden sollen, ist ein zusätzliches Repository nach dem folgenden Muster aufzubauen:
+
+- collection-[verantwortlicher-bereich-bei-4pa]-[sammlungs-name]
+
 ## Repository Aufbau
 
 Beim Aufbau eines neuen Repositories ist auf Folgendes zu achten:
 
 - Struktur des namen [typ-des-projektes]-[verantwortlicher-bereich-bei-4pa]-[optional-überprojekt-oder-sammelprojekt]-[projektname]
-- - Projekttypen [hw=Hardware] [sw=Software] [si=Systemintegration] [et=Elektronik] [aw=Allgemeinwissen]
+- - Projekttypen [hw=Hardware] [sw=Software] [si=Systemintegration] [et=Elektronik] [ge=Allgemeinwissen]
 - Auswahl eines Names (kann kreativ sein)
 - Eingabe einer aussagekräftigen Beschreibung, die das Projekt kurz umreißt - "was kann man damit machen"
 - Erstellung mit einer README.md Datei (Option im Assistenten)
