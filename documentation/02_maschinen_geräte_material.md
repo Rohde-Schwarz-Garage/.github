@@ -89,6 +89,7 @@ Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorher
 
 **Raspberry**
 - 1x Experimentier-Koffer mit Tastatur, Sensoren und Display
+- 1x Raspberry 4
 - 2x Raspberry 3 Model B
 - 1x HQ Camera, M12
 - 1x HQ Camery, C/CS
