@@ -25,7 +25,7 @@ Aktuelle Hinweise und Statusmeldungen (Raparaturen, Defekte, etc.) über die Ger
 
 ## Arbeitssicherheit
 
-Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfrei dich vorab bereits in die Bedienung der Maschinen einzulesen. 
+Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfreich dich vorab bereits in die Bedienung der Maschinen einzulesen. 
 
 >Aktuell befinden sich die Unterweisungen und Einweisungen im Aufbau
 
@@ -64,7 +64,7 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 📘 Unterweisung erforderlich:
 
-- Prusa MK4 3D Drucker
+- Prusa MK3S 3D Drucker
 
 | RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
 | :---: | :---: | :---: |
@@ -75,7 +75,7 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 ## Maschinen
 
-Unsere Maschinen aus underer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
+Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
 
 | CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
 | :---: | :---: | :---: | :---: |
