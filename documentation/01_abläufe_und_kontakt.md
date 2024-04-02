@@ -87,11 +87,11 @@ Wenn du dein Projekt dokumentieren und auch für andere verfügbar machen möcht
 
 ## Nutzung von Maschinen, Geräten und Material
 
-Alle Geräte in der Garage stehen zur Nutzung frei zur Verfügung. Bitte achte jedoch darauf, dass du um Umgang sicher bist. Für besondere Arbeiten mit Maschinen, z.B. Lötarbeiten und 3D-Druck-Arbeiten musst du eine Unterweisung erhalten haben. Siehe Punkt "Einweisungen". **Du darfst ohne Unterweisung nicht mit diesen Geräten arbeiten.**
+Alle Geräte in der Garage stehen zur Nutzung frei zur Verfügung. Bitte achte jedoch darauf, dass du im Umgang sicher bist. Für besondere Arbeiten mit Maschinen, z.B. Lötarbeiten und 3D-Druck-Arbeiten musst du eine Unterweisung erhalten haben. Siehe Punkt "Einweisungen". **Du darfst ohne Unterweisung nicht mit diesen Geräten arbeiten.**
 
-Unsere Geräte (Messgeräte, etc.) dürfen genutzt werden, hierfür ist keine besondere Unterweisung von Nöten. Jedoch lohnt es sich, mit deren Bedienung vorab vertraut zu machen. Anleitungen stehen ebenso unter dem "Einweisungen" zur Verfügung.
+Unsere Geräte (Messgeräte, etc.) dürfen genutzt werden, hierfür ist keine besondere Unterweisung von Nöten. Jedoch lohnt es sich, mit deren Bedienung vorab vertraut zu machen. Anleitungen stehen ebenso unter dem Punkt "Einweisungen" zur Verfügung.
 
-Neben underen Maschinen und Geräten steht in der Garage noch verschiedenstes Material zur Verfügung. Eine Übersicht findest du hier:
+Neben unseren Maschinen und Geräten steht in der Garage noch verschiedenstes Material zur Verfügung. Eine Übersicht findest du hier:
 
 - [Maschinen, Geräte und Material](/documentation/02_maschinen_geräte_material.md)
 
