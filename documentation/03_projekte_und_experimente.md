@@ -8,7 +8,7 @@ Du brauchst Anregungen oder möchtest dir eines unserer Experimente zum Nachbaue
 
 *Gib uns bitte noch einen kleinen Moment, wir sind hier neu und arbeiten kräftig daran, unsere Anleitungen online zu bringen 🐱‍👓.*
 
-## [Kleine Drohne]([https://github.com/Rohde-Schwarz-Garage/ge-it-mini-arcade](https://github.com/Rohde-Schwarz-Garage/hw-it-mini-drohne))
+## [Kleine Drohne](https://github.com/Rohde-Schwarz-Garage/hw-it-mini-drohne)
 
 *In diesem Projekt wirst du eine kleine Drohne bauen. Dazu beschäftigst du dich mit dem Zusammenbau der Komponenten sowie der verwendeten Software und dem anschließenden Tuning. Das Endziel wird es sein, dass die Drohne eigenständig fliegt und von dir einfach gesteuert werden kann.*
 
