@@ -13,6 +13,10 @@ Ein paar kurze Fakten über uns:
 - 🛎️ Die Garage richtet sich an eigengesteuertes Arbeiten, eine direkte Betreuung erfolgt nicht
 - 🦹‍♂️ Ansprechpartner / Verantwortlicher: Robert Kuehnl
 
+*Adresse:
+Friedenstraße 32
+81671 München*
+
 <!---
 rohde-schwarz-garage/rohde-schwarz-garage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
