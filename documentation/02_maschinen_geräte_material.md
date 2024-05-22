@@ -66,6 +66,8 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 
 - Prusa MK3S 3D Drucker
 
+(Bitte auf die Bilder mit der mittleren Maustaste klicken - die Bilder-Links in GitHub funktionieren leider nur über die Funktion "in neuem Tab öffnen".)
+
 | RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
 | :---: | :---: | :---: |
 | ![RTA](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_RTA4004_Osziloskop.png?raw=true) | ![NGE](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_NGE100_Netzteil.png?raw=true) | ![HMC8012](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_HMC8012_Digitales_Multimeter.png?raw=true) |
@@ -76,6 +78,8 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 ## Maschinen
 
 Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
+
+(Bitte auf die Bilder mit der mittleren Maustaste klicken - die Bilder-Links in GitHub funktionieren leider nur über die Funktion "in neuem Tab öffnen".)
 
 | CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
 | :---: | :---: | :---: | :---: |
