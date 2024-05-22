@@ -42,7 +42,7 @@ Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfreich dich vorab b
 
 ## Material und Werkzeug
 
-Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroller bis hin zu Sernsoren in der Garage. Eine optimale Ausgangssituation wenn du dich mit Themen wie IoT oder Automatisierung vertraut machen möchtest.
+Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroller bis hin zu Sernsoren in der Garage. Eine optimale Ausgangssituation wenn du dich mit Themen wie IoT oder Automatisierung vertraut machen möchtest. (Bitte auf die Bilder mit der mittleren Maustaste klicken - die Bilder-Links in GitHub funktionieren leider nur über die Funktion "in neuem Tab öffnen".)
 
 | Werkzeug I | Werkzeug II | Werkzeug III |
 | :---: | :---: | :---: |
