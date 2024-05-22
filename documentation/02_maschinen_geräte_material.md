@@ -89,6 +89,8 @@ Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorher
 
 **Raspberry**
 - 1x Experimentier-Koffer mit Tastatur, Sensoren und Display
+- 1x Raspberry 5B 8GB, Quad-Core in Gehäuse (nur für Systeminstallationen, als Server, etc.)
+- 1x Raspberry 5, 8GB, Quad-Core
 - 1x Raspberry 4
 - 2x Raspberry 3 Model B
 - 1x Raspberry Pi Zero W
@@ -99,8 +101,10 @@ Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorher
 - 1x 8mm M12 Objektiv
 - 1x 25mm M12 Objektiv
 - 1x Touchscreen
+- 1x 5 Zoll LCD Touch Display
 - 1x Gehäuse mit Lüfter
-- 1x Kühlkörperset
+- 1x Gehäuse ohne Lüfter
+- 2x Kühlkörperset
 
 **Arduino**
 - 1x Make your UNO Kit
@@ -125,13 +129,14 @@ Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorher
 
 **Sonstiges Zubehör & Tools**
 - JetRacer AI Racecar Kit
+- 1x Waveshare 13338 1.54 inch e-Paper Modul
 - 1x ESP32-S3-DevKitM-1
 - 2x Breadboard mit Anschlüss für Netzteil
 - Breadboard Jumper Wire / Steckbrücken / Drahtbrücken
 - Widerstände (vers.)
 - Schrumpfschläuche
 - 3x NEOPIXEL LED Ring (Neopr16)
-- 3x NEOPIXEL LED Stab (Neops8)
+- 13x NEOPIXEL LED Stab (Neops8)
 - 3x NEOPIXEL LED Quadrat (Neopq64)
 - 4x NEOPIXEL Hexagon
 - 1x Pico RGB 4x$ Keypad
