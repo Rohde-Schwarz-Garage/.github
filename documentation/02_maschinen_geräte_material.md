@@ -129,6 +129,7 @@ Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorher
 
 **Sonstiges Zubehör & Tools**
 - JetRacer AI Racecar Kit
+- 2x Arcade Joystick
 - 1x Waveshare 13338 1.54 inch e-Paper Modul
 - 1x ESP32-S3-DevKitM-1
 - 2x Breadboard mit Anschlüss für Netzteil
