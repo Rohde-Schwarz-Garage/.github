@@ -44,8 +44,8 @@ Die Zeiten sind nicht in Stein gemeißelt 🔨. Sie dienen als grobe Orientierun
 Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pflichten gerecht werden, gibt es einige Punkte, die du bereits vor deinem Besuch vorbereiten kannst. 
 
 **Hinweis: Wir befinden uns aktuell noch in der Testphase. Die Unterlagen sind teilweise noch in der Erstellung. Die Unterweisungen erfolgen bis dahin persönlich vor Ort.**
-- [Sicherheitsunterweisung](https://elearning-poc.rohde-schwarz.com/course/view.php?id=5)
-- [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
+- Sicherheitsunterweisung
+- Einweisungen in die Geräte und Maschinen
 
 ## Status-Check der Geräte
 
@@ -73,7 +73,7 @@ Die Anmeldung vor Ort findet im zweiten Stockwerk der Friedenstraße 32 ("BCF Ge
 
 Du erhältst zum Start:
 - Eine persönliche Sicherheitsunterweisung
-- [Anleitungen und Einweisungen zu den Geräten](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
+- Anleitungen und Einweisungen zu den Geräten
 
 ## Projekte und Dokumentation
 
