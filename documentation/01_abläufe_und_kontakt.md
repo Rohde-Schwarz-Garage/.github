@@ -10,10 +10,20 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersi
 # Vorher
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
+## Vorbereitung
 - Überlege dir zunächst, was du bei uns machen möchtest!
 - Möchtest du dein Projekt (z.B. Jugend Forscht) bei uns realisieren?
+- Hast du das notwendige Material beisammen?
 - Möchtest du einfach nur mit der vorhandenen Technik experimentieren? Hier erfährst du, was wir an Ausstattung besitzen: [Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/02_maschinen_ger%C3%A4te_material.md)
+- Anregungen für Experimente und kleine Projekte findest du hier: [Projekt-Datenbank](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/03_projekte_und_experimente.md)
 
+## Buchung
+- Schaue zunächst in unserern Kalender: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
+- Nimm Kontakt mit uns auf, um die Garage zu buchen: [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)
+- Hinweis zu den Öffnungszeiten ⌚: Diese kannst du mit uns individuell vereinbaren. Klassisch ist unser Büro Montags bis Donnerstags von 0700 bis 1600 Uhr besetzt, Freitags von 0700 bis 1200 Uhr. Diese Zeiten sind aber nicht in Stein gemeißelt 🔨, sie dienen als grobe Orientierung.
+
+## e-Trainings
+- Um dich mit den allgemeinen 
 
 
 1. [Am Anfang war die Idee](#Am-Anfang-war-die-Idee)
@@ -21,35 +31,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersi
 3. [Vorbereitung](#Vorbereitung)
 4. [Status-Check](#Status-Check-der-Geräte)
 
-## Am Anfang war die Idee
 
-Bevor du loslegt, mach dir Gedanken, was du erreichen möchtest!
-- Möchtest du dich z.B. mit Mikrocontrollern vertraut machen?
-- Möchtest du einfach mal etwas ausprobieren?
-- Anregungen findest du in Zukunft in unserer [Projekt-Datenbank](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/03_projekte_und_experimente.md)
-- Haben wir dafür die notwendigen Mittel? > Informiere dich über unsere 
-- Musst du ggf. noch eigenes Material bestellen?
-
-## Freie Termine einsehen und buchen
-
-Nun, nachdem feststeht, was du machen möchtest, schau in unseren Kalender, finde einen Termin und frage ihn an! 😉
-- Du kannst über folgenden Link/Kalender die derzeitige Buchungslage einsehen: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)
-- Um die Garage zu buchen, wende dich anschließend per Mail an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) | Alternativ kannst du in GitHub über die Diskussionen [eine Anfrage](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/termin-anfrage) stellen 🤗
-
-Wie sieht das eigentlich mit den "Öffnungszeiten" ⌚ aus?
-Während der Testphase können wir dir aktuell folgende Zeiten, nach Absprache, anbieten:
-- Mo-Do ~ 0700-1600
-- Fr ~ 0700-1200
-
-Die Zeiten sind nicht in Stein gemeißelt 🔨. Sie dienen als grobe Orientierung 😊. Wir müssen jede Anfrage zusätzlich intern prüfen. Es kann durchaus sein, dass unsere Abteilung auch mal nicht besetzt ist. Bitte habe dafür Verständnis.
-
-## Vorbereitung
-
-Um zu gewährleisten, dass alles reibungslos läuft und auch wir all unseren Pflichten gerecht werden, gibt es einige Punkte, die du bereits vor deinem Besuch vorbereiten kannst. 
-
-**Hinweis: Wir befinden uns aktuell noch in der Testphase. Die Unterlagen sind teilweise noch in der Erstellung. Die Unterweisungen erfolgen bis dahin persönlich vor Ort.**
-- Sicherheitsunterweisung
-- Einweisungen in die Geräte und Maschinen
 
 ## Status-Check der Geräte
 
