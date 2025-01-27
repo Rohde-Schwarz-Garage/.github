@@ -49,7 +49,7 @@ Unser Material, die Maschinen und Geräte im Überblick ⚙️
 # Abläufe und Kontakt
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-Wie geht es nun weiter? Du interessierst dich für unsere Garage? Dann schau mal in unsere Dokumentation zu den Abläufen :) - [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)
+Du möchtest uns besuchen und die Garage (kostenfrei) buchen? Dann schau hier vorbei: [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)
 
 Du kannst dich zudem in unserer Community beteiligen:
 
