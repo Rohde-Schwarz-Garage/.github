@@ -3,10 +3,6 @@
 
 👋 **Hi, wir sind die @Rohde-Schwarz-Garage**  
 
----
-
-## Wer sind wir?  
-
 Ein paar kurze Fakten über uns:  
 
 - 🛠 **Makerspace** von Rohde & Schwarz in 📍 **München**  
