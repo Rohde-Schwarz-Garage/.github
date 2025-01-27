@@ -3,13 +3,6 @@
 
 Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersichtlich für dich zusammengestellt:
 
-1. [Vorher](#Vorher)
-2. [Während](#Während)
-3. [Danach](#Danach) 
-
-# Vorher
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
-
 ## Vorbereitung
 - Überlege dir zunächst, was du bei uns machen möchtest!
 - Möchtest du dein Projekt (z.B. Jugend Forscht) bei uns realisieren?
@@ -22,21 +15,13 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersi
 - Nimm Kontakt mit uns auf, um die Garage zu buchen: [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)
 - Hinweis zu den Öffnungszeiten ⌚: Diese kannst du mit uns individuell vereinbaren. Klassisch ist unser Büro Montags bis Donnerstags von 0700 bis 1600 Uhr besetzt, Freitags von 0700 bis 1200 Uhr. Diese Zeiten sind aber nicht in Stein gemeißelt 🔨, sie dienen als grobe Orientierung.
 
-## e-Trainings
-- Um dich mit den allgemeinen Bestimmungen wie auch den Maschinen vertraut zu machen, schaue gerne vorab mal hier vorbei: [E-Learning Plattform](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=7)
-
-
-1. [Am Anfang war die Idee](#Am-Anfang-war-die-Idee)
-2. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
-3. [Vorbereitung](#Vorbereitung)
-4. [Status-Check](#Status-Check-der-Geräte)
+## e-Trainings, Maschinen, Hinweise
+- Um dich mit den allgemeinen Bestimmungen wie auch der Maschinenbedienung vertraut zu machen, schaue gerne vorab und vor Ort in unsere Dokumentation: [E-Learning Plattform](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=7)
+- Den Status unserer Geräte kannst du hier einsehen: [Status-Check](#Status-Check-der-Geräte)
 
 
 
-## Status-Check der Geräte
 
-
-- 🛑 [Prüfe hier den aktuellen Status der Geräte und Maschinen](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)
 
 # Während
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
