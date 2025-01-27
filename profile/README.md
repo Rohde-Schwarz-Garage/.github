@@ -9,7 +9,7 @@ Ein paar kurze Fakten über uns:
 - 💖 MINT Begeisterung
 - 🧪 Experimente, Projekte, Entwicklung, u.v.m.
 - 🎫 Zugänglich für interessierte Mitarbeiter mit Kindern
-- 🔓 Offen für Anfragen von Schulen, Hochschulen, StartUp's
+- 🔓 Offen für Anfragen von Schülern, Schulen, Studierenden, Hochschulen, StartUp's, etc.
 - 🛎️ Die Garage richtet sich an eigengesteuertes Arbeiten, eine direkte Betreuung erfolgt nicht
 - 🦹‍♂️ Ansprechpartner / Verantwortlicher: Robert Kuehnl
 
@@ -36,11 +36,9 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 # Angebot und Konzept
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-Die R&S Garage befindet sich aktuell noch im Aufbau. Ziel ist es, einen Makerspace anzubieten, in dem sich Interessierte zusammenfinden und gemeinsam an Projekten und Experimenten arbeiten können. Die Garage soll besonders die jüngere Generation ansprechen und ihr einen Raum anbieten, indem sie sich mit  verschiedenster Technologie vertraut machen kann.
+In der R&S Garage kannst du deine eigenen Projekte und Ideen umsetzen oder einfach nur mal in die Welt der Elektrotechnik hineinschnuppern. Du findest hier neben einer modernen Ausstattung auch eine Sammlung an verschiedenen Experimentierkästen, Microcontrollern, Werkzeugen wie auch Sensoren. Arbeitest du vielleicht an einem Projekt für Wettbewerbe wie Jugend Forscht oder deine Schule? Dann bist du bei uns ganz richtig :)
 
->Moment! Heißt das jetzt, jeder darf die Garage benutzen? Ja! In Zukunft soll es so sein. Egal ob du Schüler / eine Schülergruppe oder z.B. Student bist, du kannst unsere Garage für dein Vorhaben anfragen. Zum aktuellen Zeitpunkt läuft noch eine Testphase, in der wir den Zugang primär auf Mitarbeiter mit ihren Kindern beschränken. Allerdings, falls du uns gefunden hast, darfst du auch gerne jetzt schon eine individuelle Anfrage stellen.
-
-Langfristiges Ziel ist es ebenfalls, einen Katalog an verschiedenen Experimenten und Projekten aufzubauen. Es kann sich dabei um Hardware wie aber auch um Softwareprojekte handeln. Jeder soll in der Lage sein, diese Anleitungen bei uns nachzubauen, anzupassen und nach seinen eigenen Ideen weiterzuentwickeln. Die Dokumentation findet öffentlich über diesen GitHub Account statt.
+Übrigens - wir bauen auch einen Katalog an verschiedenen Experimenten und Projekten auf, die du bei uns ausprobieren kannst:
 
 - [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
