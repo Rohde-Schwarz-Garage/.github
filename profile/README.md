@@ -36,7 +36,7 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 # Angebot und Konzept
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-In der R&S Garage, die für ca. 4 Besucher ausgelegt ist, kannst du deine eigenen Projekte und Ideen umsetzen oder einfach nur mal in die Welt der Elektrotechnik hineinschnuppern. Du findest hier neben einer modernen ![Austattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true) auch eine Sammlung an verschiedenen Experimentierkästen, Microcontrollern, Werkzeugen wie auch Sensoren. Arbeitest du vielleicht an einem Projekt für Wettbewerbe wie Jugend Forscht oder deine Schule? Dann bist du bei uns ganz richtig :)
+In der R&S Garage, die für ca. 4 Besucher ausgelegt ist, kannst du deine eigenen Projekte und Ideen umsetzen oder einfach nur mal in die Welt der Elektrotechnik hineinschnuppern. Du findest hier neben einer modernen Ausstattung auch eine Sammlung an verschiedenen Experimentierkästen, Microcontrollern, Werkzeugen wie auch Sensoren. Arbeitest du vielleicht an einem Projekt für Wettbewerbe wie Jugend Forscht oder deine Schule? Dann bist du bei uns ganz richtig :)
 
 Übrigens - wir bauen auch einen Katalog an verschiedenen Experimenten und Projekten auf, die du bei uns ausprobieren kannst:
 
@@ -87,5 +87,7 @@ Hier kannst du:
 - Termine in der Garage anfragen 🗓️
 
 ---
+
+![Austattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)
 
 ![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_09.png?raw=true)
