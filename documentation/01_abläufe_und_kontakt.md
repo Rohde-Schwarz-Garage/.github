@@ -18,10 +18,10 @@ Keine Sorge, wir haben die wichtigsten Punkte übersichtlich für dich zusammeng
 ## Buchung
 - Check zuerst unseren Kalender: [Kalender R&S Garage](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)  
 - Nimm dann Kontakt mit uns auf, um die Garage zu buchen: [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)  
-- **Öffnungszeiten** ⌚: Die kannst du individuell mit uns vereinbaren! Normalerweise ist unser Büro:
+- **Öffnungszeiten** ⌚: Die kannst du individuell mit uns vereinbaren! Normalerweise ist unser Büro wie folgt besetzt:
   - **Montags bis donnerstags**: 07:00 - 16:00 Uhr  
   - **Freitags**: 07:00 - 12:00 Uhr  
-  Keine Panik, das sind nur Richtwerte. Wir sind flexibel! 🔨  
+Keine Panik, das sind nur Richtwerte. Wir sind flexibel! 🔨  
 
 ---
 
