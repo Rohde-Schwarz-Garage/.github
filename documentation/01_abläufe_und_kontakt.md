@@ -1,8 +1,6 @@
 # ⚙️ Abläufe
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-**Zum aktuellen Zeitpunkt läuft die Garage als Testprojekt und kann nur durch Mitarbeiter mit Kindern gebucht werden. Zum Ende des Jahres 2024 wird die Testphase ausgewertet. Geplant ist, dass die Garage anschließend öffentlich buchbar wird. In der Zwischenzeit nehmen wir aber gerne individuelle Anfragen per Mail entgegen.**
-
 Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersichtlich für dich zusammengestellt:
 
 1. [Vorher](#Vorher)
@@ -11,6 +9,12 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersi
 
 # Vorher
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
+
+- Überlege dir zunächst, was du bei uns machen möchtest!
+- Möchtest du dein Projekt (z.B. Jugend Forscht) bei uns realisieren?
+- Möchtest du einfach nur mit der vorhandenen Technik experimentieren? Hier erfährst du, was wir an Ausstattung besitzen: [Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/02_maschinen_ger%C3%A4te_material.md)
+
+
 
 1. [Am Anfang war die Idee](#Am-Anfang-war-die-Idee)
 2. [Termine einsehen / buchen](#Freie-Termine-einsehen-und-buchen)
@@ -23,7 +27,7 @@ Bevor du loslegt, mach dir Gedanken, was du erreichen möchtest!
 - Möchtest du dich z.B. mit Mikrocontrollern vertraut machen?
 - Möchtest du einfach mal etwas ausprobieren?
 - Anregungen findest du in Zukunft in unserer [Projekt-Datenbank](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/03_projekte_und_experimente.md)
-- Haben wir dafür die notwendigen Mittel? > Informiere dich über unsere [Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/02_maschinen_ger%C3%A4te_material.md)
+- Haben wir dafür die notwendigen Mittel? > Informiere dich über unsere 
 - Musst du ggf. noch eigenes Material bestellen?
 
 ## Freie Termine einsehen und buchen
