@@ -29,42 +29,22 @@ Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co
 # Inhalt
 
 1. [Angebot & Konzept](#Angebot-und-Konzept)
-2. [Zielgruppen](#Zielgruppen)
-4. [Ausstattung](#Ausstattung)
-5. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
+2. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
 
 # Angebot und Konzept
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 In der R&S Garage, die für ca. 4 Besucher ausgelegt ist, kannst du deine eigenen Projekte und Ideen umsetzen oder einfach nur mal in die Welt der Elektrotechnik hineinschnuppern. Du findest hier neben einer modernen Ausstattung auch eine Sammlung an verschiedenen Experimentierkästen, Microcontrollern, Werkzeugen wie auch Sensoren. Arbeitest du vielleicht an einem Projekt für Wettbewerbe wie Jugend Forscht oder deine Schule? Dann bist du bei uns ganz richtig :)
 
+Unser Material, die Maschinen und Geräte im Überblick ⚙️
+
+- [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)
+
 Übrigens - wir bauen auch einen Katalog an verschiedenen Experimenten und Projekten auf, die du bei uns ausprobieren kannst:
 
 - [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
 
-
-
 >Bitte beachte, dass das Konzept der Garage aktuell keine Betreuung deiner Projekte mit vorsieht. Wir prüfen derzeit, ob wir dies langfristig sicherstellen können. Aktuell können wir dir aber nur die Garage selbst anbieten. In Einzelfällen, nach Rücksprache, gibt es jedoch unter Umständen immer mal wieder die Möglichkeit auf das Fachwissen oder Tipps von Kolleginnen und Kollegen zurückzugreifen. Primär möchten wir dir über unsere [Projekt-/Eperimentier-Datenbank](/documentation/03_projekte_und_experimente.md) Hilfestellungen und Ideen zum Nachbauen und Anpassen mitgeben.
-
-
-
-
-
-
-
-
-Die Kernausstattung 🛋️📺
-
-- Zwei Werkbänke mit Ablagemöglichkeiten & Beleuchtung
-- Laptop mit Office
-- PC mit Office
-- 4K Touch Monitor mit Office sowie Meeting Funktionalitäten (Webcam, Mikrofon, Lautsprecher)
-- Couch für Besprechungen
-- Einstellbarer Beleuchtung
-
-Unser Material, die Maschinen und Geräte im Überblick ⚙️
-
-- [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)
 
 # Abläufe und Kontakt
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
@@ -89,5 +69,7 @@ Hier kannst du:
 ---
 
 ![Austattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)
+
+
 
 ![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_09.png?raw=true)
