@@ -1,75 +1,91 @@
-# Aloha 🌺
+# Aloha 🌺  
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-👋 Hi, wir sind die @Rohde-Schwarz-Garage
-
-Ein paar kurze Fakten über uns:
-
-- 🛠 Makerspace von Rohde & Schwarz in 📍 München
-- 💖 MINT Begeisterung
-- 🧪 Experimente, Projekte, Entwicklung, u.v.m.
-- 🎫 Zugänglich für interessierte Mitarbeiter mit Kindern
-- 🔓 Offen für Anfragen von Schülern, Schulen, Studierenden, Hochschulen, StartUp's, etc.
-- 🛎️ Die Garage richtet sich an eigengesteuertes Arbeiten, eine direkte Betreuung erfolgt nicht
-- 🦹‍♂️ Ansprechpartner / Verantwortlicher: Robert Kuehnl
-
-*Adresse:
-Friedenstraße 32
-81671 München*
-
-<!---
-rohde-schwarz-garage/rohde-schwarz-garage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Die R&S Garage ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG am Standort München.
-
-![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_10.png?raw=true)
-
-# Inhalt
-
-1. [Angebot & Konzept](#Angebot-und-Konzept)
-2. [Abläufe & Kontakt](#Abläufe-und-Kontakt)
-
-# Angebot und Konzept
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
-
-In der R&S Garage, die für ca. 4 Besucher ausgelegt ist, kannst du deine eigenen Projekte und Ideen umsetzen oder einfach nur mal in die Welt der Elektrotechnik hineinschnuppern. Du findest hier neben einer modernen Ausstattung auch eine Sammlung an verschiedenen Experimentierkästen, Microcontrollern, Werkzeugen wie auch Sensoren. Arbeitest du vielleicht an einem Projekt für Wettbewerbe wie Jugend Forscht oder deine Schule? Dann bist du bei uns ganz richtig :)
-
-Unser Material, die Maschinen und Geräte im Überblick ⚙️
-
-- [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)
-
-Übrigens - wir bauen auch einen Katalog an verschiedenen Experimenten und Projekten auf, die du bei uns ausprobieren kannst:
-
-- [Unsere Projekte und Experimente zum Nachbauen, Anpassen und Weiterentwickeln 🏗️](/documentation/03_projekte_und_experimente.md)
-
->Bitte beachte, dass das Konzept der Garage aktuell keine Betreuung deiner Projekte mit vorsieht. Wir prüfen derzeit, ob wir dies langfristig sicherstellen können. Aktuell können wir dir aber nur die Garage selbst anbieten. In Einzelfällen, nach Rücksprache, gibt es jedoch unter Umständen immer mal wieder die Möglichkeit auf das Fachwissen oder Tipps von Kolleginnen und Kollegen zurückzugreifen. Primär möchten wir dir über unsere [Projekt-/Eperimentier-Datenbank](/documentation/03_projekte_und_experimente.md) Hilfestellungen und Ideen zum Nachbauen und Anpassen mitgeben.
-
-# Abläufe und Kontakt
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
-
-Du möchtest uns besuchen und die Garage (kostenfrei) buchen? Dann schau hier vorbei: [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)
-
-Du kannst dich zudem in unserer Community beteiligen:
-
-➡️ [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions) ⬅️
-
-Hier kannst du:
-
-- dich über Ankündigungen von uns informieren ℹ️
-- deine Ideen mitteilen oder an Ideen mitdiskutieren 💬
-- Fragen stellen 🙋‍♂️
-- deine Kreationen vorstellen 🤹‍♀️
-- Material anfragen 🤲
-- Statusmeldungen über die Maschinen und Geräte einsehen 🚧
-- Repositories für deine Projekte beantragen 🆕
-- Termine in der Garage anfragen 🗓️
+👋 **Hi, wir sind die @Rohde-Schwarz-Garage**  
 
 ---
 
-![Austattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)
+## Wer sind wir?  
 
+Ein paar kurze Fakten über uns:  
 
+- 🛠 **Makerspace** von Rohde & Schwarz in 📍 **München**  
+- 💖 Leidenschaft für **MINT**  
+- 🧪 Experimente, Projekte, Entwicklungen und mehr  
+- 🎫 **Zugänglich für interessierte Mitarbeiter mit Kindern**  
+- 🔓 Offen für Anfragen von Schülern, Schulen, Studierenden, Hochschulen und Start-ups  
+- 🛎️ **Selbstständiges Arbeiten** – keine direkte Betreuung  
+- 🦹‍♂️ Ansprechpartner/Verantwortlicher: **Robert Kuehnl**  
 
-![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_09.png?raw=true)
+**Adresse:**  
+Friedenstraße 32  
+81671 München  
+
+Die **R&S Garage** ist Teil der beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG am Standort München.  
+
+![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_10.png?raw=true)  
+
+---
+
+# 📜 Inhalt  
+
+1. [Angebot & Konzept](#angebot-und-konzept)  
+2. [Abläufe & Kontakt](#abläufe-und-kontakt)  
+
+---
+
+# Angebot und Konzept  
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
+
+In der **R&S Garage**, die für ca. 4 Besucher ausgelegt ist, kannst du:  
+
+- deine eigenen **Projekte und Ideen** umsetzen  
+- einfach mal in die **Welt der Elektrotechnik** hineinschnuppern  
+
+Hier findest du:  
+
+- **Moderne Ausstattung**  
+- **Experimentierkästen, Microcontroller, Sensoren und Werkzeuge**  
+
+Arbeitest du an einem **Projekt für Jugend forscht** oder für deine Schule? Dann bist du hier genau richtig! :)  
+
+### Material und Maschinen im Überblick ⚙️  
+
+- [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)  
+
+Wir bauen außerdem einen **Katalog von Experimenten und Projekten** auf:  
+
+- [Projekte und Experimente zum Nachbauen 🏗️](/documentation/03_projekte_und_experimente.md)  
+
+> **Hinweis:**  
+> Aktuell bieten wir keine direkte Betreuung für deine Projekte an. Nach Rücksprache kannst du aber gelegentlich auf das Fachwissen oder Tipps von Kolleginnen und Kollegen zurückgreifen. Unsere [Projekt-/Experimentier-Datenbank](/documentation/03_projekte_und_experimente.md) liefert dir Inspiration und Hilfe beim Umsetzen deiner Ideen.  
+
+---
+
+# Abläufe und Kontakt  
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
+
+Du möchtest uns besuchen und die **Garage kostenfrei buchen**?  
+
+➡️ [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)  
+
+### Werde Teil unserer Community!  
+
+➡️ [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions) ⬅️  
+
+Was du hier machen kannst:  
+
+- Neuigkeiten von uns erfahren ℹ️  
+- Deine Ideen mitteilen oder diskutieren 💬  
+- Fragen stellen 🙋‍♂️  
+- Deine Kreationen vorstellen 🤹‍♀️  
+- Material anfragen 🤲  
+- Statusmeldungen zu Maschinen und Geräten einsehen 🚧  
+- Repositories für deine Projekte beantragen 🆕  
+- Termine in der Garage anfragen 🗓️  
+
+---
+
+![Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)  
+
+![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_09.png?raw=true)  
