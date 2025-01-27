@@ -23,7 +23,7 @@ Und wie läuft das ganze jetzt ab 🤔? Wir haben die wichtigsten Punkte übersi
 - Hinweis zu den Öffnungszeiten ⌚: Diese kannst du mit uns individuell vereinbaren. Klassisch ist unser Büro Montags bis Donnerstags von 0700 bis 1600 Uhr besetzt, Freitags von 0700 bis 1200 Uhr. Diese Zeiten sind aber nicht in Stein gemeißelt 🔨, sie dienen als grobe Orientierung.
 
 ## e-Trainings
-- Um dich mit den allgemeinen 
+- Um dich mit den allgemeinen Bestimmungen wie auch den Maschinen vertraut zu machen, schaue gerne vorab mal hier vorbei: [E-Learning Plattform](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=7)
 
 
 1. [Am Anfang war die Idee](#Am-Anfang-war-die-Idee)
