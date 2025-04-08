@@ -7,7 +7,7 @@
 - 🧪 Dein Ort für Experimente, Projekte, Entwicklungen und kreative Ideen  
 - 🎫 **Offen für alle Neugierigen** – egal ob *Jugend forscht*-Projekt oder einfach nur zum Tüfteln  
 
-
+Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG](https://www.rohde-schwarz.com/de/karriere/schueler-innen/standorte/muenchen_252933.html) am Standort München.  
 
 | 💬 Chatbot (experimentell) | 📧 Kontakt | 📍 Adresse |
 | :--- | :--- | :--- |
@@ -15,7 +15,6 @@
 
 > ℹ️ Der Chatbot befindet sich aktuell in der Testphase – Antworten können noch unvollständig oder ungenau sein.
 
-Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG](https://www.rohde-schwarz.com/de/karriere/schueler-innen/standorte/muenchen_252933.html) am Standort München.  
 
 ![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_10.png?raw=true)  
 
