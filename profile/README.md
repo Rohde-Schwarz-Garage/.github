@@ -17,64 +17,36 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 
 ---
 
-# 📜 Inhalt  
+# 👟 Wie und wofür kannst du die Garage nutzen?
 
-1. [Angebot & Konzept](#angebot-und-konzept)  
-2. [Abläufe & Kontakt](#abläufe-und-kontakt)  
+## Wer uns besuchen kann:
+➡️ Du bist Schüler oder Student und suchst einen Ort für dein Projekt (Schule, Hochschule, Jugend forscht ...)
+➡️ Du bist Mitarbeiter und möchtest gemeinsam mit deinem Kind mit Technik experimentieren
 
----
+## Was du beu uns machen kannst:
+➡️ Du kannst dein eigenes Projekt verfolgen
+➡️ Du kannst in die Welt der Technik hineinschnuppern und mit unserer Ausstattung experimentieren (vom Raspberry über Messtechnik, Microcontroller und Sensoren)
+Schau dir unsere Auswahl an [Geräten, Maschinen und Material 🤖 an](/documentation/02_maschinen_geräte_material.md)  
+➡️ Wir haben eine kleine Auswahl an [Experimenten zum Nachbauen](/documentation/03_projekte_und_experimente.md)
 
-# Angebot und Konzept  
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
-
-In der **R&S Garage**, die für ca. 4 Besucher ausgelegt ist, kannst du:  
-
-- deine eigenen **Projekte und Ideen** umsetzen  
-- einfach mal in die **Welt der Elektrotechnik** hineinschnuppern  
-
-Hier findest du:  
-
-- **Moderne Ausstattung**  
-- **Experimentierkästen, Microcontroller, Sensoren und Werkzeuge**  
-
-Arbeitest du an einem **Projekt für Jugend forscht** oder für deine Schule? Dann bist du hier genau richtig! :)  
-
-### Material und Maschinen im Überblick ⚙️  
-
-- [Maschinen, Geräte & Material 🤖](/documentation/02_maschinen_geräte_material.md)  
-
-Wir bauen außerdem einen **Katalog von Experimenten und Projekten** auf:  
-
-- [Projekte und Experimente zum Nachbauen 🏗️](/documentation/03_projekte_und_experimente.md)  
-
-> **Hinweis:**  
-> Aktuell bieten wir keine direkte Betreuung für deine Projekte an. Nach Rücksprache kannst du aber gelegentlich auf das Fachwissen oder Tipps von Kolleginnen und Kollegen zurückgreifen. Unsere [Projekt-/Experimentier-Datenbank](/documentation/03_projekte_und_experimente.md) liefert dir Inspiration und Hilfe beim Umsetzen deiner Ideen.  
-
----
-
-# Abläufe und Kontakt  
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
-
-Du möchtest uns besuchen und die **Garage kostenfrei buchen**?  
-
+## Wie du uns besuchen kannst:
 ➡️ [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)  
 
-### Werde Teil unserer Community!  
+# ♣️ Grundsätzliches
+➡️ Die Garage bietet keine Beaufsichtigung oder Betreuung
+➡️ Du solltest dir vorher bewusst sein, was du bei uns machen möchtest
+➡️ Die Garage ist für ca. 4 Besucher ausgelegt
+➡️ Die Nutzung der Garage ist für dich mit keinerlei Kosten verbunden
 
 ➡️ [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions) ⬅️  
 
-Was du hier machen kannst:  
-
-- Neuigkeiten von uns erfahren ℹ️  
-- Deine Ideen mitteilen oder diskutieren 💬  
-- Fragen stellen 🙋‍♂️  
-- Deine Kreationen vorstellen 🤹‍♀️  
-- Material anfragen 🤲  
-- Statusmeldungen zu Maschinen und Geräten einsehen 🚧  
-- Repositories für deine Projekte beantragen 🆕  
-- Termine in der Garage anfragen 🗓️  
 
 ---
+
+# Eindrücke
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
+ 
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
 
 ![Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)  
 
