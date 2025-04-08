@@ -29,17 +29,21 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 
 ➡️ Du kannst in die Welt der Technik hineinschnuppern und mit unserer Ausstattung experimentieren (vom Raspberry über Messtechnik, Microcontroller und Sensoren)
 
-Schau dir unsere Auswahl an [Geräten, Maschinen und Material 🤖 an](/documentation/02_maschinen_geräte_material.md)  
+➡️ Schau dir unsere Auswahl an [Geräten, Maschinen und Material 🤖 an](/documentation/02_maschinen_geräte_material.md)  
 
 ➡️ Wir haben eine kleine Auswahl an [Experimenten zum Nachbauen](/documentation/03_projekte_und_experimente.md)
 
 ## Wie du uns besuchen kannst:
+
 ➡️ [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)  
 
 # ♣️ Grundsätzliches
 ➡️ Die Garage bietet keine Beaufsichtigung oder Betreuung
+
 ➡️ Du solltest dir vorher bewusst sein, was du bei uns machen möchtest
+
 ➡️ Die Garage ist für ca. 4 Besucher ausgelegt
+
 ➡️ Die Nutzung der Garage ist für dich mit keinerlei Kosten verbunden
 
 ➡️ [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions) ⬅️  
