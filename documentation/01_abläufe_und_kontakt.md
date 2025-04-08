@@ -18,7 +18,7 @@
 
 ## e-Trainings, Maschinen, Hinweise
 - Maschinenbedienung: [eTrainings](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=7)  
-- ⚠️ **Wichtig:** CNC, Drehmaschine & Laser nur nach Einweisung und **nie allein** benutzen. Bitte vorher anmelden!  
+- ⚠️ **Wichtig:** CNC, Drehmaschine & Laser nur nach Einweisung und **nie allein** benutzen. Bitte zwingend vorher anmelden!  
 - Aktueller Gerätestatus: [Status-Check](#Status-Check-der-Geräte)  
 
 ## Vor Ort
