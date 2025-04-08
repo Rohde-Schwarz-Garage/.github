@@ -13,6 +13,12 @@ Friedenstraße 32
 
 Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG](https://www.rohde-schwarz.com/de/karriere/schueler-innen/standorte/muenchen_252933.html) am Standort München.  
 
+| Thema | Beschreibung | Kontakt |
+| :--- | :--- | :--- |
+| 💬 Chatbot (experimentell) |  | [Jetzt ausprobieren](https://rohde-schwarz-garage.darko.industries:443/webhook/56e4c300-8270-46b9-a5e3-57e1ab1504b5/chat) |
+| 📧 Kontaktperson |  |  |
+| 🧠 Community |  |  |
+
 ![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_10.png?raw=true)  
 
 ![Trenner](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
