@@ -1,91 +1,20 @@
 # Informationen zu unserer Ausstattung
 
-➡️ Primär steht dir eine umfangreiche Ausstattung zur Verfügung, bestehend aus vielen verschiedenen Werkzeugen und Geräten, vom Schraubenzieher über eine Lötstation bis hin zu moderner Messtechnik
-➡️ Dir stehen für Exper
-
-## Geräte / Ausstattung
-
-| RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
-| :---: | :---: | :---: |
-| ![RTA](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_RTA4004_Osziloskop.png?raw=true) | ![NGE](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_NGE100_Netzteil.png?raw=true) | ![HMC8012](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_HMC8012_Digitales_Multimeter.png?raw=true) |
-| Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK3S 3D Drucker |
-| ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Loetkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
-
-⚙️ Rohde & Schwarz RTA4004 Osziloskop
-⚙️ Rohde & Schwarz NGE100 Netzteil
-⚙️ Rohde & Schwarz HMC8012 Digitales Multimeter
-⚙️ Prusa MK3S 3D Drucker
-
-# Maschinen
-
-🛑 Maschinen aus unserer Werkstatt 
-
-
-
-
-
-
-# Maschinen, Geräte und Material
-
-In der Werkstatt steht verschiedene Maschinen und Geräte zur Verfügung. Bitte beachte, dass nicht alle Geräte ohne Weiteres genutzt werden können - Stichwort Arbeitssicherheit. Du brauchst ggf. erst eine Unterweisung, um mit einem bestimmten Maschine arbeiten zu dürfen. Alle notwendigen informationen dazu findest du hier.
+- [Geräte und Ausstattung](#Geräte-und-Ausstattung)
+- [Maschinen](#Maschinen)
+- [Werkzeug](#Werkzeug)
+- [Material](#Material)
 
 ![Garage](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_04.png?raw=true)
 
-# Einführung 🚀
+➡️ Primär steht dir eine umfangreiche Ausstattung zur Verfügung, bestehend aus vielen verschiedenen Werkzeugen und Geräten, vom Schraubenzieher über eine Lötstation bis hin zu moderner Messtechnik
+➡️ Informiere dich vorher in den [eTrainings](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9) über die Nutzung der Geräte, wie. z.B. dem 3D Drucker
+➡️ Wir stellen [Statusmeldungen](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen) zu unseren Geräten bereit, sollte mal etwas in Raparatur sein
+➡️ Die Mitnahme von unserer Ausstattung sowie von Material ist nicht gestattet - ausgenommen Verbrauchsmaterial
+
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
-1. [Hinweise ☝️](#Hinweise)
-2. [Arbeitssicherheit🧷](#Arbeitssicherheit)
-
-## Hinweise
-
-- Unsere Geräte stehen dir natürlich sehr gerne zur Verfügung. 
-- Verbrauchsmaterial ist in normalen Beständen verfügbar. 
-- Eigenes Material kann gerne mitgerbacht werden, ebenso wie Werkzeuge.
-- Mit unserem Material (Mikrocontroller, Sensoren, etc.) kann gearbeitet werden. Jedoch ist es nicht gestattet, dieses mit nach Hause zu nehmen. (Nach Absprache in speziellen Fällen möglich)
-
-Aktuelle Hinweise und Statusmeldungen (Raparaturen, Defekte, etc.) über die Geräte der Garage findest du hier:
-
-- 🛑[Statusmeldungen über Geräte](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/statusmeldungen)🟢
-
-## Arbeitssicherheit
-
-Damit du deine Zeit vor Ort optimal nutzen kannst, ist es hilfreich dich vorab bereits in die Bedienung der Maschinen einzulesen. 
-
->Aktuell befinden sich die Unterweisungen und Einweisungen im Aufbau
-
-- [Einweisungen in die Geräte und Maschinen](https://elearning-poc.rohde-schwarz.com/course/index.php?categoryid=9)
-
-# Übersicht 👀
-![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
-
-- [Material und Werkzeug🧱](#Material-und-Werkzeug)
-- [Geräte 🎮](#Geräte)
-- [Maschinen 🥽](#Maschinen)
-- [Aktuelle Liste 📑](#Aktuelle-Liste)
-- [Fehlt etwas? 🤔 - Material anfragen und entnommenes Material melden](#Material-anfragen-und-entnommenes-Material-melden) 
-
-## Material und Werkzeug
-
-Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroller bis hin zu Sernsoren in der Garage. Eine optimale Ausgangssituation wenn du dich mit Themen wie IoT oder Automatisierung vertraut machen möchtest. (Bitte auf die Bilder mit der mittleren Maustaste klicken - die Bilder-Links in GitHub funktionieren leider nur über die Funktion "in neuem Tab öffnen".)
-
-| Werkzeug I | Werkzeug II | Werkzeug III |
-| :---: | :---: | :---: |
-| ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_01.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_02.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_03.png?raw=true) |
-| Zubehör | Mikrocontroller & Sensoren | Diveres |
-| ![Zubehör I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_01.png?raw=true) | ![Controller & Sensoren](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_02.png?raw=true) | ![Diverses](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_03.png?raw=true) |
- |Zubehör |  |  |
- | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_04.png?raw=true)
-
-## Geräte
-
-Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlich können spezielle Rodhe & Schwarz Geräte angefragt werden.
-
-
-
-- Prusa MK3S 3D Drucker
-
-(Bitte auf die Bilder mit der mittleren Maustaste klicken - die Bilder-Links in GitHub funktionieren leider nur über die Funktion "in neuem Tab öffnen".)
+## Geräte und Ausstattung
 
 | RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
 | :---: | :---: | :---: |
@@ -93,12 +22,12 @@ Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlic
 | Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK3S 3D Drucker |
 | ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Loetkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
 
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
 
 ## Maschinen
 
-Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorheriger Rücksprache/Anmeldung und Einweisung genutzt werden. Die meisten Maschinen sind nur durch Fachpersonal bedienbar, daher die vorherige Absprache.
-
-(Bitte auf die Bilder mit der mittleren Maustaste klicken - die Bilder-Links in GitHub funktionieren leider nur über die Funktion "in neuem Tab öffnen".)
+🛑 Maschinen aus unserer Werkstatt können nur nach Einweisung und unter Aufsicht genutzt werden
+🛑 Die Nutzung setzt zwingend eine vorherige, separate Anmeldung voraus
 
 | CNC Fräsmaschine | Oberflächendrucker | Laserschneidemaschine | Standbohrmaschine |
 | :---: | :---: | :---: | :---: |
@@ -108,7 +37,19 @@ Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorher
 | :---: | :---: |
 | ![Drehmaschine](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Drehmaschine.png?raw=true) | ![Resin-Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_Resin.png?raw=true) |
 
-## Aktuelle Liste
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)
+
+## Werkzeug
+
+| Werkzeug I | Werkzeug II | Werkzeug III |
+| :---: | :---: | :---: |
+| ![Werkzeug I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_01.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_02.png?raw=true) | ![Werkzeug II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Werkzeug_03.png?raw=true) |
+| Zubehör | Mikrocontroller & Sensoren | Diveres |
+| ![Zubehör I](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_01.png?raw=true) | ![Controller & Sensoren](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_02.png?raw=true) | ![Diverses](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_03.png?raw=true) |
+ |Zubehör |  |  |
+ | ![Zubehör II](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Zubehoer_04.png?raw=true)
+
+## Material
 
 **Raspberry**
 - 1x Experimentier-Koffer mit Tastatur, Sensoren und Display
@@ -170,13 +111,3 @@ Unsere Maschinen aus unserer Rapid Prototyping Werkstatt können nur nach vorher
 - USB Kabel (vers.)
 - Netzteile (vers.)
 - MicroSD Karten & Adapter
-
-# Material anfragen und entnommenes Material melden
-
-Sollte dir etwas fehlen, Material leer sein, oder Ähnliches, so erstelle bitte einen neuen Beitrag in der Kategorie "Material":
-
-- [(Verbrauchs-)Material anfragen ✋](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/categories/material)
-
-Wenn du Material oder Bausteine verbraucht hast und diese nicht wieder zurückgelegt werden können, so informiere uns bitte im Sammelbeitrag "Entnommenes Material" darüber. Dies gilt ebenfalls für temporär entliehene Gegenstände (z.B. Raspberry), wenn Auszubildende damit in ihrer Abteilung arbeiten.
-
-- [Entnommenes Material melden ❕](https://github.com/orgs/Rohde-Schwarz-Garage/discussions/2)
