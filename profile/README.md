@@ -52,10 +52,9 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 ➡️ [Ab zur Community 🦄](https://github.com/orgs/Rohde-Schwarz-Garage/discussions) ⬅️  
 
 
----
-
-# Eindrücke
 ![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
+
+# Eindrücke 
  
 ![Ausstattung](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_03.png?raw=true)  
 
