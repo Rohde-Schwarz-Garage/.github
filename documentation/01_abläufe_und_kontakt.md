@@ -8,7 +8,7 @@
   → Unsere Ausstattung findest du [hier](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/02_maschinen_ger%C3%A4te_material.md)  
 - Ideen für Projekte und Experimente gibt’s in der [Projekt-Datenbank](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/03_projekte_und_experimente.md)
 
-## Buchung
+## Buchung / Anmeldung / Reservierung
 - Prüfe den [Kalender](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)  
 - Um die Garage zu buchen sende deine Anfrage an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)  
 - *(Buchung wird bald vereinfacht – stay tuned)*  
