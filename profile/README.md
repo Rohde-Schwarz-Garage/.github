@@ -24,7 +24,7 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 
 ➡️ Du bist Mitarbeiter und möchtest gemeinsam mit deinem Kind mit Technik experimentieren
 
-## Was du beu uns machen kannst:
+## Was du bei uns machen kannst:
 ➡️ Du kannst dein eigenes Projekt verfolgen
 
 ➡️ Du kannst in die Welt der Technik hineinschnuppern und mit unserer Ausstattung experimentieren (vom Raspberry über Messtechnik, Microcontroller und Sensoren)
