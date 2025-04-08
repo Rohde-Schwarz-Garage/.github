@@ -21,12 +21,16 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 
 ## Wer uns besuchen kann:
 ➡️ Du bist Schüler oder Student und suchst einen Ort für dein Projekt (Schule, Hochschule, Jugend forscht ...)
+
 ➡️ Du bist Mitarbeiter und möchtest gemeinsam mit deinem Kind mit Technik experimentieren
 
 ## Was du beu uns machen kannst:
 ➡️ Du kannst dein eigenes Projekt verfolgen
+
 ➡️ Du kannst in die Welt der Technik hineinschnuppern und mit unserer Ausstattung experimentieren (vom Raspberry über Messtechnik, Microcontroller und Sensoren)
+
 Schau dir unsere Auswahl an [Geräten, Maschinen und Material 🤖 an](/documentation/02_maschinen_geräte_material.md)  
+
 ➡️ Wir haben eine kleine Auswahl an [Experimenten zum Nachbauen](/documentation/03_projekte_und_experimente.md)
 
 ## Wie du uns besuchen kannst:
