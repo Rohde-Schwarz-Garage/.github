@@ -15,7 +15,7 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 
 ![Titelbild](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_10.png?raw=true)  
 
----
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
 
 # 👟 Wie und wofür kannst du die Garage nutzen?
 
@@ -37,7 +37,10 @@ Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH
 
 ➡️ [Abläufe und Kontaktinformationen 📯](/documentation/01_abläufe_und_kontakt.md)  
 
+![image](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/graphics/2024_03_13_Trennbanner_GitHub_Grey_Transparent.png?raw=true)  
+
 # ♣️ Grundsätzliches
+
 ➡️ Die Garage bietet keine Beaufsichtigung oder Betreuung
 
 ➡️ Du solltest dir vorher bewusst sein, was du bei uns machen möchtest
