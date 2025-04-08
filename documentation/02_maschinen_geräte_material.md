@@ -1,4 +1,29 @@
-*Um die Fotos in diesem Dokument zu vergrößern, wähle diese bitte mit der rechten Maustaste aus und klicke auf "in neuem Tab öffnen"*
+# Informationen zu unserer Ausstattung
+
+➡️ Primär steht dir eine umfangreiche Ausstattung zur Verfügung, bestehend aus vielen verschiedenen Werkzeugen und Geräten, vom Schraubenzieher über eine Lötstation bis hin zu moderner Messtechnik
+➡️ Dir stehen für Exper
+
+## Geräte / Ausstattung
+
+| RTA4004 Osziloskop | NGE100 Netzteil | HMC8012 Multimeter |
+| :---: | :---: | :---: |
+| ![RTA](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_RTA4004_Osziloskop.png?raw=true) | ![NGE](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_NGE100_Netzteil.png?raw=true) | ![HMC8012](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_HMC8012_Digitales_Multimeter.png?raw=true) |
+| Mikroskop mit Beleuchtung | Lötkolben (2x) | Prusa MK3S 3D Drucker |
+| ![Mikroskop](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Mikroskop.png?raw=true) | ![Lötkolben](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_Loetkolben.png?raw=true) | ![3D Drucker](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Garage_3D_Drucker_01.png?raw=true) |
+
+⚙️ Rohde & Schwarz RTA4004 Osziloskop
+⚙️ Rohde & Schwarz NGE100 Netzteil
+⚙️ Rohde & Schwarz HMC8012 Digitales Multimeter
+⚙️ Prusa MK3S 3D Drucker
+
+# Maschinen
+
+🛑 Maschinen aus unserer Werkstatt 
+
+
+
+
+
 
 # Maschinen, Geräte und Material
 
@@ -56,13 +81,7 @@ Wir haben eine Basisausstattung von verschiedenen Werkzeugen über Mikrocontroll
 
 Die folgenden Geräte stehen direkt in der R&S Garage zur Verfügung. Zusätzlich können spezielle Rodhe & Schwarz Geräte angefragt werden.
 
-👩‍🏫 Einweisung hilfreich:
 
-- RTA4004 Osziloskop
-- NGE100 Netzteil
-- HMC8012 Digitales Multimeter
-
-📘 Unterweisung erforderlich:
 
 - Prusa MK3S 3D Drucker
 
