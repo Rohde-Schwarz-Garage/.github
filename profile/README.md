@@ -3,13 +3,13 @@
 
 👋 **Hi, wir sind die @Rohde-Schwarz-Garage**  
 
-- 🛠 **Makerspace** von Rohde & Schwarz in 📍 **München**  
-- 🧪 Dein Raum für Experimente, Projekte, Entwicklungen und mehr  
-- 🎫 **Zugänglich für alle Interessierten - ob für dein Jugend forscht Projekt oder nur zum Experimentieren**  
+- 🛠 Ein **Makerspace** von Rohde & Schwarz in 📍 **München**  
+- 🧪 Dein Ort für Experimente, Projekte, Entwicklungen und kreative Ideen  
+- 🎫 **Offen für alle Neugierigen** – egal ob *Jugend forscht*-Projekt oder einfach nur zum Tüfteln  
 
-**Adresse:**  
+**📍 Adresse:**  
 Friedenstraße 32  
-81671 München  
+81671 München
 
 Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG](https://www.bing.com/ck/a?!&&p=c93b6292ee8a2b68e6aa2e7cefc57f73b7eeaa11e2a84508c740ef29d287de40JmltdHM9MTc0Mzk4NDAwMA&ptn=3&ver=2&hsh=4&fclid=3cccf6a2-10ca-6b1b-28d4-e33d11b56a7a&psq=rohde+schwarz+ausbildung+m%c3%bcnchen&u=a1aHR0cHM6Ly93d3cucm9oZGUtc2Nod2Fyei5jb20vZGUva2FycmllcmUvc2NodWVsZXItaW5uZW4vc3RhbmRvcnRlL211ZW5jaGVuXzI1MjkzMy5odG1s&ntb=1) am Standort München.  
 
