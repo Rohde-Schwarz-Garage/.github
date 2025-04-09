@@ -9,9 +9,8 @@
 - Ideen für Projekte und Experimente gibt’s in der [Projekt-Datenbank](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/documentation/03_projekte_und_experimente.md)
 
 ## Buchung / Anmeldung / Reservierung
-- Prüfe den [Kalender](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html)  
-- Um die Garage zu buchen, bzw zu reservieren und dich bei uns anzumelden sende deine Anfrage an [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com)  
-- *(Buchung wird bald vereinfacht – stay tuned)*  
+- Prüfe zunächst den [Kalender](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/97575a0f-087c-4ba4-80c1-9fd4bad7214c/cid-3B09161DCF70F723/index.html) der Garage, ob dein gewünschter Termin noch verfügbar ist.
+- Um die Garage zu buchen, bzw zu reservieren und dich bei uns anzumelden, benutze bitte dieses [Webformular](https://rohde-schwarz-garage.darko.industries:443/form/a0622647-932f-4521-90bb-b66bb1dcfae2)
 - **Öffnungszeiten** ⌚: Flexibel nach Absprache, typischerweise:
   - **Montag–Donnerstag**: 07:00–16:00 Uhr  
   - **Freitag**: 07:00–12:00 Uhr  
