@@ -71,3 +71,35 @@
 - Neopixel-LEDs (Ring, Stab, Quadrat, Hexagon)  
 - Button-Matrix, LED-Sets, Widerstände, Schrumpfschläuche  
 - Netzteile, MicroSD-Karten, USB-Kabel  
+
+## Experimentierkoffer
+
+![Die Luft- und Raumfahrt praktisch erforschen](https://github.com/Rohde-Schwarz-Garage/.github/blob/main/ressources/pictures/Experimentierkoffer_2.png?raw=true)
+
+**Experimentierkoffer „Die Luft- und Raumfahrt praktisch erforschen“**
+
+Enthält Anleitungen und Materialien für spannende Experimente
+Experimente zu verschiedenen Antriebsarten und physikalischen Prinzipien:
+- Raketenantrieb
+- Heißluftballon
+- Backpulverrakete
+- Düsenjet
+- Druckfernsteuerung
+- Luftballonrakete
+- Strohhalmrakete
+- Handpropeller
+- Flugzeugantrieb
+- Reibungsrakete
+- Knallhütchen
+Fördert technisches Verständnis und Experimentierfreude
+
+**Experimentierkoffer "JOY-Pi The Education Box for Makers and Students"**
+
+- Entwicklungsumgebung mit integriertem 7-Zoll-Display
+- Einfache Einführung in den Umgang mit dem Raspberry Pi
+- Vermittelt Grundlagen im Umgang mit Computern
+- Einstieg in Sensorik und elektronische Projekte mit Python
+- Ideal für Maker, Schüler und Bildungseinrichtungen
+
+
+
