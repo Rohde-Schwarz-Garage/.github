@@ -8,6 +8,10 @@ Du brauchst Anregungen oder möchtest dir eines unserer Experimente zum Nachbaue
 
 *Gib uns bitte noch einen kleinen Moment, wir sind hier neu und arbeiten kräftig daran, unsere Anleitungen online zu bringen 🐱‍👓.*
 
+## [Rohde & Schwarz Blink Smiley](https://github.com/Rohde-Schwarz-Garage/hw-et-blink-smiley)
+
+*Der Blink-Smiley ist eine einfache elektronische Schaltung, bei der zwei LEDs abwechselnd blinken. Für das perfekte Lächeln kannst du dir aus 3D-gedruckten Teilen dein individuelles Gesicht aus verschiedenen Farben zusammenstellen. Viel Spass beim Bauen! 😃*
+
 ## [Kleine Drohne](https://github.com/Rohde-Schwarz-Garage/hw-it-mini-drohne)
 
 *In diesem Projekt wirst du eine kleine Drohne bauen. Dazu beschäftigst du dich mit dem Zusammenbau der Komponenten sowie der verwendeten Software und dem anschließenden Tuning. Das Endziel wird es sein, dass die Drohne eigenständig fliegt und von dir einfach gesteuert werden kann.*
