@@ -9,9 +9,9 @@
 
 Die **R&S Garage** ist Teil der [beruflichen Ausbildung der Rohde & Schwarz GmbH & Co. KG](https://www.rohde-schwarz.com/de/karriere/schueler-innen/standorte/muenchen_252933.html) am Standort München.  
 
-| 💬 Chatbot (experimentell) | 📧 Kontakt | 📍 Adresse |
+| x | 📧 Kontakt | 📍 Adresse |
 | :--- | :--- | :--- |
-| [Chatbot "Chad"](https://rohde-schwarz-garage.darko.industries:443/webhook/df886432-76dd-4404-8e09-4e47e292de4c/chat) <br> Dein KI-Ansprechpartner | [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) <br> Haupt-Ansprechpartner. | Friedenstraße 32 <br> 81671 München <br> 2. Stock, Klingel „Ausbildung“ |
+| x | [Robert Kuehnl](mailto:robert.kuehnl@rohde-schwarz.com) <br> Haupt-Ansprechpartner. | Friedenstraße 32 <br> 81671 München <br> 2. Stock, Klingel „Ausbildung“ |
 
 > ℹ️ Der Chatbot befindet sich aktuell in der Testphase – Antworten können noch unvollständig oder ungenau sein.
 
